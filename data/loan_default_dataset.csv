@@ -1,0 +1,1501 @@
+age,annual_income,loan_amount,credit_score,employment_years,existing_loans,dependents,missed_payments,debt_to_income_ratio,education,employment_type,residence_type,marital_status,loan_purpose,default
+24,628841,312975,693,7,3,3,6,49.77,Postgraduate,Self-Employed,Rented,Married,Vehicle,1
+51,898164,192430,739,1,1,0,6,21.42,High School,Business,Rented,Married,Home,1
+46,180000,312039,755,13,2,3,4,95.0,Graduate,Salaried,Owned,Married,Personal,1
+38,320739,188834,754,14,0,1,2,58.87,Graduate,Salaried,Rented,Single,Personal,1
+37,446965,146048,683,15,0,0,3,32.68,Graduate,Salaried,Mortgaged,Married,Personal,0
+54,971459,332802,787,14,2,2,4,34.26,Diploma,Salaried,Owned,Married,Home,0
+24,712169,321129,706,2,0,2,3,45.09,Diploma,Self-Employed,Owned,Divorced,Personal,1
+48,818810,381099,734,13,3,1,2,46.54,Diploma,Salaried,Owned,Single,Business,1
+28,399165,606021,710,15,1,1,2,95.0,Graduate,Salaried,Owned,Single,Home,1
+24,403702,338821,707,4,0,4,4,83.93,High School,Salaried,Rented,Divorced,Personal,0
+41,748519,367911,638,9,2,1,0,49.15,High School,Salaried,Owned,Married,Personal,0
+59,662820,149141,739,18,2,4,6,22.5,High School,Self-Employed,Rented,Single,Home,0
+49,770723,119833,850,8,3,4,0,15.55,Graduate,Self-Employed,Mortgaged,Single,Personal,0
+50,608712,521596,664,15,0,1,6,85.69,Diploma,Self-Employed,Owned,Married,Home,1
+48,711192,170713,695,10,2,2,0,24.0,Graduate,Self-Employed,Owned,Married,Education,1
+51,684786,153848,659,13,4,3,3,22.47,Graduate,Salaried,Mortgaged,Married,Home,1
+41,821109,294526,656,12,1,2,2,35.87,Diploma,Self-Employed,Rented,Married,Home,0
+25,827542,287373,798,13,4,2,4,34.73,Postgraduate,Salaried,Mortgaged,Single,Personal,0
+53,293628,173649,643,15,3,1,3,59.14,Postgraduate,Unemployed,Owned,Single,Business,1
+38,180000,257304,657,18,2,0,6,95.0,High School,Salaried,Rented,Married,Vehicle,1
+40,870384,472113,579,5,4,0,0,54.24,Diploma,Salaried,Mortgaged,Divorced,Personal,1
+35,911300,187161,637,18,4,1,6,20.54,Graduate,Salaried,Owned,Single,Personal,1
+28,425463,104886,570,12,1,3,4,24.65,High School,Business,Rented,Married,Personal,1
+57,240836,431963,734,11,4,1,5,95.0,Graduate,Salaried,Rented,Single,Personal,1
+51,671788,368922,850,6,0,0,0,54.92,Graduate,Unemployed,Rented,Single,Personal,0
+46,854784,213127,664,8,0,1,0,24.93,Postgraduate,Salaried,Owned,Divorced,Business,0
+36,1045471,78497,573,13,0,2,2,7.51,High School,Business,Rented,Single,Vehicle,0
+53,763585,195753,753,7,1,1,2,25.64,Graduate,Self-Employed,Owned,Single,Personal,0
+42,568222,292341,639,5,4,1,5,51.45,Postgraduate,Salaried,Mortgaged,Married,Home,1
+38,453511,463194,781,16,3,0,6,95.0,High School,Salaried,Owned,Single,Home,0
+38,652519,154879,670,8,3,1,2,23.74,High School,Salaried,Owned,Single,Education,0
+29,584162,288167,646,12,0,1,5,49.33,High School,Business,Mortgaged,Married,Vehicle,1
+24,426685,394520,678,0,2,4,0,92.46,Diploma,Business,Owned,Single,Business,0
+42,1100726,50000,743,1,1,4,5,4.54,Postgraduate,Salaried,Rented,Married,Personal,0
+55,1042737,444730,674,16,2,1,0,42.65,Postgraduate,Salaried,Owned,Single,Education,1
+23,899931,134457,655,2,1,0,4,14.94,Postgraduate,Salaried,Rented,Single,Business,1
+54,447413,346479,676,15,1,0,2,77.44,High School,Salaried,Owned,Married,Education,1
+53,838104,334536,601,18,4,1,2,39.92,Graduate,Self-Employed,Rented,Single,Business,1
+31,790718,451842,718,9,2,2,1,57.14,Graduate,Salaried,Rented,Married,Home,1
+45,747360,377129,565,17,2,2,2,50.46,Graduate,Salaried,Owned,Divorced,Home,1
+27,924926,50000,659,8,0,1,6,5.41,Postgraduate,Business,Owned,Married,Business,1
+50,789782,190131,743,19,3,1,5,24.07,Diploma,Business,Owned,Single,Education,1
+48,812803,319349,711,4,2,1,2,39.29,High School,Business,Rented,Single,Education,0
+34,790119,272703,731,8,1,2,2,34.51,Postgraduate,Salaried,Owned,Divorced,Vehicle,1
+23,724974,366866,685,7,3,3,3,50.6,High School,Unemployed,Owned,Married,Home,1
+58,257606,410511,772,15,0,0,4,95.0,High School,Self-Employed,Owned,Married,Business,1
+38,668397,385183,755,0,2,2,1,57.63,Postgraduate,Self-Employed,Rented,Married,Education,0
+55,527638,270002,721,16,4,3,5,51.17,Postgraduate,Salaried,Rented,Single,Education,1
+47,368435,50000,755,0,2,3,6,13.57,High School,Business,Rented,Single,Personal,0
+51,1020000,236233,743,6,0,2,5,23.16,Graduate,Self-Employed,Mortgaged,Married,Business,1
+50,1030379,358292,659,11,1,2,3,34.77,High School,Business,Rented,Married,Home,0
+28,949029,147337,596,2,0,3,2,15.53,High School,Self-Employed,Mortgaged,Single,Business,1
+35,706147,388378,719,9,2,1,2,55.0,High School,Business,Rented,Married,Home,1
+39,947138,427175,728,19,1,2,5,45.1,Diploma,Self-Employed,Owned,Married,Home,1
+40,652652,317761,766,16,0,1,3,48.69,High School,Unemployed,Mortgaged,Single,Business,1
+22,694615,50000,624,0,3,2,0,7.2,Postgraduate,Salaried,Rented,Single,Home,0
+42,409436,121068,627,11,0,0,4,29.57,Graduate,Salaried,Rented,Married,Vehicle,1
+27,737338,564066,722,11,1,1,0,76.5,High School,Business,Owned,Married,Personal,1
+49,663285,223485,685,1,4,0,6,33.69,Diploma,Self-Employed,Owned,Divorced,Business,1
+47,363417,50000,558,13,0,1,2,13.76,Diploma,Self-Employed,Rented,Single,Personal,1
+56,638737,472935,716,10,1,2,2,74.04,Diploma,Business,Owned,Divorced,Personal,1
+50,632459,301870,560,13,1,2,0,47.73,Graduate,Self-Employed,Rented,Married,Vehicle,1
+35,1045463,454692,624,5,2,4,1,43.49,High School,Business,Owned,Married,Business,1
+58,846727,338774,785,5,1,0,6,40.01,Diploma,Salaried,Rented,Single,Vehicle,0
+37,652518,364198,818,14,4,4,3,55.81,High School,Business,Owned,Single,Business,0
+33,704733,350821,605,14,0,1,6,49.78,High School,Salaried,Owned,Married,Vehicle,1
+56,659727,397648,667,3,4,3,6,60.27,Postgraduate,Self-Employed,Owned,Single,Home,1
+35,605359,618840,693,4,2,3,0,95.0,High School,Business,Rented,Single,Home,1
+23,411866,435941,815,11,0,4,2,95.0,Graduate,Salaried,Rented,Divorced,Personal,1
+39,616769,78752,655,16,0,0,5,12.77,Graduate,Salaried,Mortgaged,Single,Home,0
+52,485858,362533,657,4,0,4,3,74.62,Diploma,Salaried,Rented,Divorced,Business,1
+28,374931,459807,798,4,1,0,3,95.0,Diploma,Self-Employed,Rented,Married,Personal,0
+39,762469,468378,664,16,1,4,3,61.43,Diploma,Salaried,Rented,Married,Business,1
+26,736078,240275,741,13,3,3,4,32.64,Graduate,Salaried,Rented,Single,Education,1
+47,256924,463092,587,18,1,2,6,95.0,Graduate,Business,Mortgaged,Married,Home,1
+39,623009,429884,678,15,3,1,6,69.0,Graduate,Salaried,Rented,Married,Personal,1
+33,869054,660152,574,19,1,0,4,75.96,Diploma,Self-Employed,Owned,Divorced,Business,1
+29,883029,195000,616,3,1,4,4,22.08,High School,Self-Employed,Rented,Single,Education,1
+43,875684,228964,749,5,1,3,2,26.15,Diploma,Salaried,Owned,Single,Personal,0
+47,658561,257143,687,4,1,4,0,39.05,Graduate,Salaried,Owned,Divorced,Home,0
+57,464090,231369,668,1,4,3,4,49.85,High School,Unemployed,Rented,Single,Education,1
+38,411586,175397,638,15,1,4,0,42.61,High School,Self-Employed,Mortgaged,Married,Home,0
+27,725813,50000,675,13,1,4,4,6.89,Graduate,Salaried,Owned,Single,Home,1
+53,733442,239142,711,1,4,2,3,32.61,Diploma,Business,Owned,Single,Vehicle,1
+45,933213,351710,759,3,3,3,5,37.69,High School,Self-Employed,Mortgaged,Married,Business,1
+48,891996,230949,506,3,0,1,6,25.89,Graduate,Salaried,Owned,Married,Vehicle,1
+24,620910,570953,632,8,4,3,3,91.95,Graduate,Self-Employed,Owned,Married,Business,1
+33,376275,301873,701,9,0,3,4,80.23,Diploma,Self-Employed,Rented,Married,Personal,1
+50,579797,480744,683,5,0,2,3,82.92,High School,Salaried,Mortgaged,Married,Personal,0
+53,697791,336599,718,18,2,3,2,48.24,High School,Business,Rented,Divorced,Home,0
+37,605542,415697,709,4,3,1,0,68.65,High School,Salaried,Rented,Single,Personal,1
+52,522863,339094,669,11,0,3,0,64.85,Postgraduate,Salaried,Owned,Single,Home,0
+53,705635,491630,653,8,3,2,5,69.67,High School,Salaried,Owned,Single,Business,1
+36,539129,307832,673,7,0,1,6,57.1,Diploma,Business,Rented,Married,Vehicle,1
+56,511825,369457,770,16,3,4,0,72.18,Graduate,Business,Mortgaged,Single,Business,0
+32,718520,351287,639,19,0,0,2,48.89,High School,Unemployed,Owned,Married,Home,1
+30,561562,259640,686,0,2,3,4,46.24,Graduate,Salaried,Owned,Married,Business,1
+47,703703,356698,703,9,3,1,4,50.69,Graduate,Business,Owned,Married,Home,1
+45,710105,612814,799,2,1,1,5,86.3,Postgraduate,Self-Employed,Owned,Married,Home,1
+26,399326,262144,669,8,3,0,4,65.65,Diploma,Salaried,Owned,Married,Business,1
+53,544127,358725,757,12,3,0,0,65.93,Graduate,Salaried,Owned,Married,Vehicle,0
+28,966311,476089,776,8,3,0,1,49.27,Postgraduate,Business,Rented,Single,Business,0
+52,394343,459635,686,6,1,4,3,95.0,High School,Salaried,Owned,Married,Business,1
+21,184336,301640,675,6,3,4,0,95.0,Graduate,Self-Employed,Rented,Single,Business,1
+52,240394,50000,667,5,3,2,2,20.8,High School,Self-Employed,Rented,Married,Business,1
+51,656404,372338,672,6,1,0,2,56.72,Diploma,Salaried,Mortgaged,Single,Personal,1
+51,656802,50000,750,7,3,4,6,7.61,Graduate,Unemployed,Mortgaged,Single,Personal,1
+46,624126,505791,706,13,4,3,2,81.04,Graduate,Business,Owned,Single,Home,1
+39,917122,323726,706,1,4,2,6,35.3,Diploma,Self-Employed,Owned,Married,Business,1
+48,180000,439954,611,0,3,4,4,95.0,Graduate,Self-Employed,Rented,Divorced,Business,1
+31,737105,173704,622,10,3,2,4,23.57,Graduate,Salaried,Owned,Single,Home,1
+51,993516,82649,840,13,4,1,5,8.32,Diploma,Business,Owned,Single,Vehicle,0
+42,401888,336506,678,5,1,3,5,83.73,Diploma,Salaried,Owned,Single,Vehicle,1
+38,566443,295296,636,4,3,2,1,52.13,High School,Salaried,Mortgaged,Divorced,Business,1
+40,484364,231184,790,12,0,3,2,47.73,High School,Salaried,Owned,Married,Vehicle,0
+43,453244,311853,710,7,1,3,3,68.8,Diploma,Salaried,Rented,Single,Business,1
+22,578222,687441,730,14,4,4,6,95.0,High School,Salaried,Rented,Married,Business,1
+26,964047,416834,680,2,1,1,0,43.24,High School,Salaried,Rented,Married,Business,0
+30,1054225,446930,668,2,4,0,3,42.39,Diploma,Unemployed,Owned,Married,Vehicle,0
+25,576093,418151,678,11,2,2,1,72.58,High School,Salaried,Mortgaged,Married,Personal,1
+38,1069113,507125,593,7,1,3,1,47.43,Postgraduate,Salaried,Rented,Married,Business,1
+47,657827,273390,684,14,0,4,5,41.56,Postgraduate,Salaried,Rented,Married,Home,1
+46,1035812,50000,711,10,2,1,1,4.83,Postgraduate,Self-Employed,Owned,Single,Home,0
+39,629474,273598,820,7,2,3,5,43.46,High School,Salaried,Rented,Single,Vehicle,0
+54,678833,413643,696,3,2,4,6,60.93,Postgraduate,Self-Employed,Rented,Single,Personal,1
+43,730404,164228,527,3,0,4,5,22.48,Postgraduate,Business,Owned,Single,Vehicle,1
+24,1349348,275309,683,15,1,4,1,20.4,Diploma,Salaried,Owned,Single,Home,0
+50,837283,203152,850,4,0,4,0,24.26,Postgraduate,Unemployed,Owned,Married,Home,0
+43,494402,510284,751,10,1,3,3,95.0,Graduate,Salaried,Owned,Married,Home,1
+45,863180,404924,633,16,4,1,3,46.91,Graduate,Self-Employed,Owned,Single,Education,1
+43,570397,391216,731,17,0,2,5,68.59,Graduate,Salaried,Owned,Single,Personal,1
+42,542255,387024,638,5,3,3,2,71.37,High School,Business,Owned,Married,Education,1
+24,849892,294785,595,2,0,1,1,34.68,Postgraduate,Business,Mortgaged,Married,Personal,0
+42,656839,327658,666,15,2,3,6,49.88,Graduate,Salaried,Rented,Single,Home,1
+52,711287,134074,696,13,4,2,6,18.85,Diploma,Salaried,Mortgaged,Married,Education,0
+32,653077,50000,559,6,1,3,4,7.66,Graduate,Salaried,Rented,Single,Personal,1
+44,724048,321011,610,11,0,2,4,44.34,Graduate,Salaried,Rented,Single,Business,1
+22,743492,345359,691,3,2,3,6,46.45,Diploma,Unemployed,Owned,Married,Personal,1
+34,223867,469297,661,14,1,0,3,95.0,High School,Self-Employed,Rented,Married,Vehicle,1
+38,796646,519987,718,14,4,3,1,65.27,High School,Self-Employed,Owned,Single,Education,1
+59,433956,519800,605,5,4,4,4,95.0,Diploma,Unemployed,Rented,Married,Business,1
+29,332694,160277,740,9,3,4,3,48.18,Diploma,Business,Mortgaged,Divorced,Home,0
+31,637150,250683,607,6,3,4,5,39.34,Graduate,Business,Mortgaged,Single,Personal,1
+36,668476,367247,805,0,3,1,5,54.94,High School,Salaried,Owned,Married,Vehicle,1
+59,497429,654467,570,2,3,0,3,95.0,High School,Salaried,Rented,Single,Home,1
+54,832827,507214,614,19,2,3,2,60.9,Graduate,Salaried,Owned,Married,Personal,1
+22,354721,456716,719,9,4,0,2,95.0,Diploma,Salaried,Owned,Married,Business,0
+30,560472,245710,806,2,1,1,4,43.84,Postgraduate,Salaried,Owned,Single,Personal,0
+53,521328,176352,712,0,0,3,4,33.83,Diploma,Salaried,Owned,Single,Personal,1
+23,639751,410447,729,7,3,2,3,64.16,High School,Salaried,Rented,Married,Vehicle,1
+54,711350,145907,691,19,3,3,3,20.51,High School,Salaried,Owned,Single,Business,0
+31,428264,266619,618,7,4,3,6,62.26,Graduate,Salaried,Owned,Divorced,Personal,1
+56,809342,283931,656,19,1,0,1,35.08,Diploma,Salaried,Mortgaged,Single,Vehicle,0
+32,663861,523008,605,9,2,3,1,78.78,High School,Salaried,Rented,Married,Education,1
+37,233772,250342,600,15,2,2,5,95.0,Graduate,Self-Employed,Owned,Married,Personal,1
+46,219110,50000,718,15,1,2,6,22.82,Graduate,Business,Rented,Single,Home,1
+25,647290,370622,611,0,3,2,4,57.26,High School,Business,Rented,Married,Personal,1
+42,601387,202137,712,0,2,2,2,33.61,Graduate,Salaried,Rented,Married,Education,0
+40,627248,305968,599,18,3,2,2,48.78,High School,Salaried,Rented,Married,Personal,1
+51,643844,287861,711,18,2,1,3,44.71,High School,Salaried,Mortgaged,Married,Business,1
+59,699623,261681,656,2,1,1,0,37.4,Graduate,Salaried,Owned,Married,Business,1
+46,858483,410648,788,12,4,0,3,47.83,High School,Salaried,Rented,Married,Personal,1
+36,405557,85399,713,18,2,1,1,21.06,Graduate,Unemployed,Owned,Married,Home,1
+36,392166,227618,777,19,3,1,1,58.04,Diploma,Salaried,Mortgaged,Married,Business,0
+37,409469,395765,637,5,2,2,3,95.0,Diploma,Salaried,Owned,Single,Personal,1
+52,713562,214028,694,16,1,4,6,29.99,Graduate,Business,Owned,Married,Personal,1
+33,923888,74767,621,12,4,0,1,8.09,High School,Self-Employed,Mortgaged,Married,Personal,1
+27,555105,393598,661,18,1,1,6,70.91,Postgraduate,Salaried,Rented,Divorced,Business,1
+34,180000,457233,672,2,4,0,3,95.0,Diploma,Salaried,Owned,Single,Business,1
+21,275122,293701,639,12,2,4,6,95.0,Postgraduate,Unemployed,Owned,Single,Business,1
+25,466732,50000,605,0,0,3,2,10.71,High School,Salaried,Owned,Single,Business,1
+24,527300,398836,591,7,0,1,6,75.64,Diploma,Self-Employed,Mortgaged,Married,Business,1
+51,560155,67616,526,0,4,2,4,12.07,Graduate,Business,Rented,Married,Home,1
+49,658488,343232,616,8,2,3,4,52.12,High School,Salaried,Owned,Single,Home,1
+48,581416,175755,734,16,1,4,3,30.23,Graduate,Business,Rented,Single,Business,1
+39,880855,137622,578,13,4,2,3,15.62,High School,Salaried,Owned,Divorced,Vehicle,1
+48,501276,238133,594,6,3,1,3,47.51,Postgraduate,Salaried,Owned,Married,Vehicle,1
+27,460290,274338,815,8,3,3,5,59.6,Diploma,Salaried,Mortgaged,Married,Home,0
+56,755353,209811,645,7,3,3,5,27.78,Postgraduate,Unemployed,Owned,Single,Personal,1
+40,312159,382418,712,14,0,3,0,95.0,Graduate,Salaried,Mortgaged,Single,Personal,0
+57,735732,237550,735,5,0,0,4,32.29,Diploma,Salaried,Rented,Single,Business,1
+26,672562,437227,736,1,3,3,5,65.01,Diploma,Unemployed,Owned,Single,Personal,1
+40,617563,339364,583,10,0,0,5,54.95,High School,Salaried,Rented,Married,Personal,0
+48,999421,202342,674,16,3,4,3,20.25,High School,Business,Rented,Single,Home,0
+40,513114,178768,577,9,0,4,2,34.84,Graduate,Self-Employed,Rented,Single,Home,1
+38,1103266,69351,850,4,1,2,4,6.29,High School,Self-Employed,Rented,Single,Home,0
+27,600405,340703,578,0,3,3,4,56.75,Graduate,Business,Owned,Single,Home,1
+35,369056,250358,617,18,3,0,2,67.84,Graduate,Business,Owned,Single,Business,1
+30,665382,50000,617,15,3,4,2,7.51,Diploma,Salaried,Rented,Single,Vehicle,1
+32,413226,225000,585,3,3,1,2,54.45,High School,Unemployed,Owned,Single,Personal,1
+47,484614,173855,785,1,0,1,0,35.88,Graduate,Unemployed,Owned,Married,Business,1
+45,737347,520595,850,2,4,3,0,70.6,Graduate,Business,Rented,Divorced,Vehicle,0
+44,772228,61611,657,7,1,4,0,7.98,Diploma,Self-Employed,Owned,Married,Personal,0
+35,513123,98211,598,16,0,2,2,19.14,Graduate,Self-Employed,Rented,Single,Personal,1
+58,867229,455396,533,3,4,2,3,52.51,Graduate,Self-Employed,Rented,Divorced,Personal,1
+24,904652,489947,673,16,0,2,2,54.16,Graduate,Salaried,Mortgaged,Divorced,Personal,0
+34,965986,195702,668,0,2,1,6,20.26,Graduate,Self-Employed,Owned,Married,Personal,1
+25,766471,211508,644,14,2,2,1,27.6,Graduate,Self-Employed,Rented,Single,Business,1
+34,949954,386273,705,5,3,4,2,40.66,Diploma,Self-Employed,Mortgaged,Married,Personal,1
+58,236224,50000,718,19,0,1,1,21.17,Graduate,Salaried,Owned,Divorced,Home,0
+35,580061,50000,713,9,0,3,2,8.62,Postgraduate,Salaried,Rented,Married,Business,0
+56,459259,260697,668,5,2,3,4,56.76,High School,Self-Employed,Rented,Married,Education,1
+40,676230,516985,613,4,2,4,2,76.45,High School,Salaried,Owned,Married,Home,1
+48,524281,238998,737,16,3,3,2,45.59,High School,Unemployed,Owned,Divorced,Home,0
+38,613445,314131,691,8,3,4,4,51.21,High School,Business,Rented,Single,Home,1
+31,1064078,458730,752,7,0,3,5,43.11,High School,Salaried,Owned,Single,Vehicle,1
+50,612662,594964,745,14,4,4,1,95.0,High School,Salaried,Mortgaged,Married,Home,1
+58,741034,219241,590,10,2,3,0,29.59,High School,Self-Employed,Rented,Single,Education,0
+31,598901,297643,590,13,4,4,1,49.7,High School,Salaried,Owned,Single,Personal,1
+51,666657,555088,637,8,4,4,4,83.26,High School,Business,Rented,Single,Business,1
+31,651324,86892,616,1,0,4,6,13.34,Graduate,Salaried,Rented,Single,Business,0
+48,748631,443861,743,0,2,2,1,59.29,High School,Salaried,Owned,Single,Home,1
+51,906368,157436,715,0,2,3,0,17.37,High School,Salaried,Mortgaged,Married,Personal,0
+38,1012427,314346,767,11,2,4,3,31.05,Graduate,Business,Rented,Single,Home,0
+49,718116,266033,718,10,1,1,6,37.05,Diploma,Unemployed,Rented,Married,Vehicle,1
+31,779700,165878,705,14,2,0,3,21.27,Graduate,Business,Mortgaged,Single,Education,0
+24,396810,162366,774,17,2,4,6,40.92,Graduate,Self-Employed,Rented,Divorced,Personal,1
+24,630667,338698,723,3,0,3,4,53.7,Diploma,Business,Rented,Married,Personal,1
+38,856864,439376,695,19,1,2,0,51.28,Graduate,Salaried,Owned,Divorced,Personal,0
+56,840513,281837,794,18,0,3,2,33.53,Postgraduate,Self-Employed,Owned,Single,Business,0
+25,696554,309816,698,12,4,0,5,44.48,Postgraduate,Unemployed,Rented,Single,Education,1
+38,845007,379964,669,10,3,2,3,44.97,Diploma,Salaried,Rented,Married,Business,1
+48,757969,163973,631,3,1,1,1,21.63,Postgraduate,Unemployed,Rented,Married,Home,0
+28,914067,403557,739,3,1,1,1,44.15,High School,Salaried,Rented,Single,Vehicle,0
+49,713659,414708,777,0,0,4,4,58.11,High School,Salaried,Rented,Married,Personal,0
+32,571746,664508,686,12,1,2,3,95.0,High School,Self-Employed,Mortgaged,Married,Personal,1
+52,723885,247345,782,8,4,0,4,34.17,Diploma,Unemployed,Mortgaged,Single,Vehicle,1
+43,180000,235869,552,3,0,1,2,95.0,Diploma,Salaried,Owned,Married,Vehicle,1
+42,734235,407655,686,2,0,1,2,55.52,Postgraduate,Business,Mortgaged,Single,Vehicle,1
+27,180000,414675,687,1,4,4,4,95.0,Diploma,Salaried,Rented,Single,Education,1
+39,270838,225088,639,12,2,1,0,83.11,High School,Business,Owned,Married,Vehicle,1
+54,749389,243557,850,13,0,1,3,32.5,Graduate,Self-Employed,Owned,Married,Business,0
+21,755056,375758,685,12,2,1,2,49.77,Graduate,Salaried,Owned,Married,Home,1
+50,394266,184138,661,2,3,0,5,46.7,High School,Business,Rented,Married,Home,1
+40,493338,242525,692,0,1,3,5,49.16,Graduate,Business,Rented,Divorced,Vehicle,1
+49,951519,312543,550,2,1,2,2,32.85,High School,Self-Employed,Rented,Married,Personal,1
+46,543513,439431,637,15,3,2,1,80.85,Postgraduate,Salaried,Rented,Married,Vehicle,1
+37,1143442,215356,759,14,2,1,1,18.83,High School,Salaried,Owned,Single,Education,0
+33,649578,50000,646,5,4,3,1,7.7,Graduate,Unemployed,Owned,Married,Business,0
+45,739768,50000,632,1,1,0,1,6.76,Diploma,Self-Employed,Mortgaged,Married,Personal,1
+26,1005712,123682,782,6,1,4,5,12.3,Postgraduate,Business,Mortgaged,Married,Vehicle,0
+43,678826,116157,784,16,0,2,0,17.11,Graduate,Self-Employed,Rented,Single,Business,0
+24,429484,278354,726,2,3,1,0,64.81,Postgraduate,Business,Owned,Single,Vehicle,0
+46,625860,133557,658,15,2,2,3,21.34,Postgraduate,Salaried,Owned,Married,Business,1
+45,642166,201614,673,9,1,4,1,31.4,High School,Self-Employed,Owned,Married,Education,0
+24,349757,191628,634,2,3,0,5,54.79,High School,Self-Employed,Rented,Single,Personal,1
+50,593717,238329,620,18,1,2,5,40.14,Graduate,Salaried,Owned,Married,Personal,0
+37,486718,485151,617,10,0,2,5,95.0,Diploma,Salaried,Mortgaged,Married,Personal,1
+51,853359,392673,647,13,2,4,3,46.01,Postgraduate,Self-Employed,Rented,Married,Personal,1
+22,657615,302258,618,1,2,2,3,45.96,Graduate,Business,Owned,Single,Home,0
+27,587785,235456,581,7,2,3,2,40.06,High School,Self-Employed,Owned,Married,Business,1
+40,626640,239347,705,12,2,3,1,38.2,High School,Salaried,Owned,Single,Home,0
+28,699087,345885,706,12,4,4,3,49.48,High School,Unemployed,Rented,Single,Vehicle,1
+33,785699,381784,809,1,1,1,6,48.59,Postgraduate,Salaried,Rented,Married,Education,0
+46,430063,172934,643,12,1,3,1,40.21,Postgraduate,Salaried,Owned,Single,Business,0
+26,420851,305107,711,18,2,1,0,72.5,High School,Unemployed,Mortgaged,Single,Business,1
+47,893029,50000,712,15,0,4,3,5.6,Graduate,Business,Owned,Single,Personal,0
+25,559286,329640,672,4,0,4,2,58.94,Graduate,Unemployed,Owned,Single,Business,1
+27,338295,406701,742,18,2,1,5,95.0,Diploma,Business,Mortgaged,Married,Personal,1
+43,747639,260790,744,13,2,2,5,34.88,High School,Self-Employed,Owned,Single,Personal,1
+51,751941,554314,713,1,3,4,6,73.72,Postgraduate,Salaried,Owned,Married,Personal,1
+27,313243,176627,672,2,0,0,2,56.39,Graduate,Salaried,Rented,Married,Vehicle,1
+32,700486,330442,665,18,4,3,6,47.17,High School,Unemployed,Owned,Single,Education,1
+57,811828,294985,594,4,2,4,0,36.34,Graduate,Business,Owned,Married,Business,0
+59,732365,285958,634,1,0,4,2,39.05,Graduate,Salaried,Owned,Single,Personal,0
+43,789036,283995,646,9,1,0,1,35.99,Graduate,Salaried,Owned,Single,Home,1
+38,341061,314995,611,10,1,3,6,92.36,High School,Salaried,Rented,Single,Vehicle,1
+34,722829,418714,721,11,2,3,4,57.93,High School,Salaried,Owned,Single,Vehicle,0
+44,583424,492883,774,13,2,0,2,84.48,Graduate,Business,Rented,Single,Vehicle,0
+44,543786,299685,626,19,2,3,1,55.11,Graduate,Salaried,Mortgaged,Single,Personal,1
+32,841522,414144,710,15,2,3,5,49.21,High School,Salaried,Owned,Married,Home,1
+21,975440,201753,618,0,4,4,4,20.68,High School,Unemployed,Owned,Married,Vehicle,1
+26,1044761,407234,669,1,4,0,5,38.98,High School,Self-Employed,Owned,Divorced,Business,0
+58,939258,193321,642,0,2,4,3,20.58,Graduate,Salaried,Owned,Married,Education,0
+37,625858,452692,732,7,4,2,1,72.33,High School,Salaried,Owned,Married,Home,0
+39,727598,609490,642,7,4,1,2,83.77,Diploma,Salaried,Rented,Single,Business,1
+39,818701,282908,761,18,4,1,4,34.56,High School,Salaried,Owned,Married,Education,1
+51,676659,50000,673,7,1,3,1,7.39,Graduate,Salaried,Rented,Single,Personal,0
+23,678768,223270,645,0,2,4,0,32.89,High School,Salaried,Rented,Divorced,Business,1
+24,831226,472463,602,17,1,1,5,56.84,Graduate,Salaried,Mortgaged,Divorced,Personal,1
+31,636958,377431,708,5,0,4,3,59.26,Graduate,Salaried,Owned,Single,Home,0
+39,489557,334848,753,18,0,3,2,68.4,Graduate,Salaried,Owned,Married,Personal,1
+47,558816,441214,709,15,3,0,3,78.96,Diploma,Unemployed,Mortgaged,Married,Business,1
+40,789460,367823,847,17,2,2,5,46.59,Postgraduate,Salaried,Owned,Married,Business,0
+38,650659,470482,790,16,4,4,0,72.31,Diploma,Salaried,Rented,Single,Education,0
+57,724846,428719,668,2,3,0,3,59.15,Postgraduate,Business,Rented,Married,Home,1
+27,797417,513038,668,12,0,0,1,64.34,Postgraduate,Salaried,Rented,Married,Home,0
+43,567535,350231,723,8,4,0,0,61.71,Graduate,Self-Employed,Owned,Single,Personal,1
+42,816375,426736,631,12,2,2,0,52.27,High School,Business,Owned,Married,Personal,1
+39,733345,257002,772,14,2,0,3,35.05,Graduate,Self-Employed,Rented,Single,Home,0
+52,378341,215795,715,10,4,4,3,57.04,Postgraduate,Salaried,Rented,Divorced,Business,1
+31,967307,538947,708,6,3,0,3,55.72,Graduate,Business,Rented,Single,Business,0
+58,539836,330269,738,18,0,0,5,61.18,Postgraduate,Self-Employed,Rented,Single,Business,1
+33,285879,412683,811,13,0,1,3,95.0,High School,Salaried,Mortgaged,Single,Vehicle,0
+42,420090,317324,702,17,2,3,4,75.54,Graduate,Salaried,Mortgaged,Married,Personal,0
+41,425370,217888,682,4,0,4,5,51.22,Graduate,Salaried,Rented,Married,Business,1
+54,661478,301538,796,16,0,1,4,45.59,Diploma,Business,Owned,Single,Business,0
+38,589753,501039,758,6,3,2,6,84.96,Graduate,Salaried,Owned,Single,Business,1
+32,575897,377734,668,9,0,3,1,65.59,Graduate,Salaried,Rented,Married,Business,0
+21,786334,60394,690,17,0,3,5,7.68,Graduate,Self-Employed,Rented,Single,Home,0
+35,724773,269866,704,7,2,0,4,37.23,Postgraduate,Unemployed,Owned,Single,Personal,1
+53,719531,549521,715,5,0,4,4,76.37,High School,Salaried,Rented,Divorced,Vehicle,1
+21,740162,270068,595,18,1,4,0,36.49,Graduate,Salaried,Owned,Single,Personal,1
+55,785550,50000,582,19,4,3,3,6.36,Postgraduate,Salaried,Owned,Married,Personal,1
+42,186250,565027,628,6,3,2,6,95.0,High School,Self-Employed,Mortgaged,Single,Business,1
+26,569824,395535,622,6,4,1,4,69.41,Graduate,Salaried,Rented,Married,Business,1
+32,180000,290198,645,4,1,4,0,95.0,Diploma,Business,Rented,Married,Home,1
+42,657933,248002,734,0,3,4,2,37.69,Diploma,Salaried,Rented,Single,Education,0
+33,648981,451529,678,11,1,2,3,69.58,Graduate,Salaried,Rented,Married,Business,1
+25,880017,224122,704,5,1,3,5,25.47,Graduate,Salaried,Owned,Divorced,Home,1
+46,911280,460756,604,16,0,1,3,50.56,Graduate,Salaried,Rented,Married,Home,1
+47,694611,375907,658,3,4,3,5,54.12,Graduate,Self-Employed,Owned,Single,Personal,1
+25,539921,334255,731,12,0,0,5,61.91,Postgraduate,Business,Rented,Married,Vehicle,0
+31,756735,320372,732,10,1,4,1,42.34,High School,Salaried,Owned,Divorced,Vehicle,1
+30,533858,275504,639,12,2,2,1,51.61,Postgraduate,Business,Mortgaged,Single,Vehicle,0
+46,649694,446390,701,2,2,2,6,68.71,Graduate,Salaried,Rented,Single,Business,1
+49,866950,178852,844,9,1,0,4,20.63,Graduate,Self-Employed,Owned,Single,Education,0
+49,527290,72930,689,12,1,2,5,13.83,Diploma,Salaried,Owned,Married,Personal,1
+57,827249,386022,641,6,1,0,6,46.66,Diploma,Self-Employed,Owned,Single,Education,1
+50,799028,388373,678,17,4,4,2,48.61,Graduate,Salaried,Rented,Single,Home,1
+33,439946,367234,696,10,2,3,0,83.47,High School,Unemployed,Rented,Married,Education,1
+25,864257,357082,679,7,4,2,6,41.32,Postgraduate,Unemployed,Rented,Single,Home,1
+44,803685,255124,688,0,4,4,4,31.74,High School,Business,Mortgaged,Single,Personal,1
+56,672424,410248,589,3,3,4,0,61.01,High School,Business,Rented,Married,Home,1
+59,482289,293622,623,9,4,0,3,60.88,Diploma,Salaried,Rented,Single,Home,1
+29,460975,231804,680,8,0,0,0,50.29,Graduate,Self-Employed,Rented,Divorced,Education,1
+30,531714,256335,678,17,4,1,2,48.21,Graduate,Salaried,Rented,Single,Home,1
+22,769371,582890,650,15,2,0,2,75.76,Diploma,Business,Rented,Married,Education,1
+26,439762,57103,678,3,3,2,3,12.99,Graduate,Salaried,Rented,Married,Education,1
+42,746253,369970,694,11,1,2,3,49.58,Graduate,Salaried,Owned,Single,Personal,0
+42,376814,64925,752,9,0,2,5,17.23,High School,Self-Employed,Owned,Single,Home,1
+35,605105,284847,683,2,4,0,2,47.07,High School,Salaried,Owned,Married,Business,1
+33,674123,239292,718,13,2,4,5,35.5,High School,Business,Mortgaged,Single,Business,1
+53,1187929,50000,652,10,0,4,6,4.21,High School,Salaried,Rented,Single,Home,1
+38,346991,354465,730,1,3,2,5,95.0,High School,Self-Employed,Owned,Divorced,Business,1
+52,973843,246795,716,9,0,0,1,25.34,Graduate,Business,Owned,Married,Personal,1
+58,682965,50000,751,14,2,1,4,7.32,High School,Self-Employed,Rented,Divorced,Personal,1
+33,740458,417540,740,6,3,3,1,56.39,High School,Salaried,Mortgaged,Single,Personal,0
+28,676037,500901,731,7,3,3,3,74.09,Diploma,Salaried,Mortgaged,Single,Business,1
+58,747840,508617,683,2,2,1,4,68.01,Graduate,Salaried,Mortgaged,Married,Vehicle,1
+45,616189,350254,707,4,1,4,2,56.84,Graduate,Salaried,Mortgaged,Single,Personal,1
+32,969891,306448,764,19,4,4,0,31.6,High School,Self-Employed,Owned,Single,Vehicle,0
+45,549576,485942,644,12,0,2,5,88.42,Graduate,Salaried,Owned,Single,Business,1
+41,899092,535534,646,3,0,1,5,59.56,Graduate,Salaried,Rented,Single,Personal,1
+56,508239,458700,703,9,0,2,0,90.25,Diploma,Salaried,Rented,Married,Personal,1
+30,636745,168185,719,3,4,0,2,26.41,Postgraduate,Unemployed,Owned,Single,Personal,1
+59,414168,328188,632,8,2,2,1,79.24,Graduate,Salaried,Rented,Divorced,Home,1
+57,750105,361532,685,2,0,0,6,48.2,Graduate,Salaried,Owned,Single,Business,0
+28,967928,50000,683,12,0,0,6,5.17,Graduate,Salaried,Owned,Single,Home,0
+27,632982,365710,535,11,0,2,4,57.78,High School,Salaried,Owned,Single,Personal,1
+41,606685,618219,675,12,4,2,3,95.0,Postgraduate,Unemployed,Mortgaged,Married,Business,1
+22,404784,389591,679,8,2,4,0,95.0,Graduate,Salaried,Rented,Married,Home,1
+32,599556,506278,679,5,0,2,1,84.44,Graduate,Self-Employed,Rented,Married,Personal,1
+37,299585,325608,789,4,1,4,0,95.0,Graduate,Self-Employed,Rented,Single,Education,0
+58,449167,289749,605,4,3,4,5,64.51,Graduate,Business,Rented,Single,Education,1
+59,699893,353378,632,8,2,1,0,50.49,Graduate,Self-Employed,Owned,Married,Personal,1
+26,940183,185784,507,9,4,4,4,19.76,High School,Business,Rented,Single,Business,1
+55,1268026,165071,656,13,0,2,6,13.02,Graduate,Salaried,Owned,Married,Business,1
+24,520951,477283,662,1,0,2,2,91.62,Graduate,Self-Employed,Rented,Single,Home,1
+50,965766,492128,654,5,0,0,4,50.96,Postgraduate,Business,Owned,Single,Home,1
+53,703626,161245,768,17,1,1,6,22.92,Postgraduate,Self-Employed,Rented,Married,Home,1
+55,616726,435520,750,18,3,2,2,70.62,Graduate,Self-Employed,Rented,Single,Vehicle,0
+29,745171,287826,695,18,3,1,3,38.63,Graduate,Salaried,Owned,Divorced,Vehicle,1
+55,663622,347573,664,6,1,2,1,52.38,Graduate,Salaried,Rented,Married,Education,0
+25,674287,364431,762,2,3,0,2,54.05,Graduate,Salaried,Rented,Divorced,Business,0
+41,560167,439209,689,3,3,1,6,78.41,High School,Salaried,Rented,Married,Home,1
+39,342416,311581,633,2,0,3,4,90.99,Graduate,Salaried,Owned,Single,Business,1
+33,310402,497423,570,19,3,3,1,95.0,High School,Salaried,Owned,Married,Personal,1
+21,793714,343318,659,17,2,4,3,43.25,High School,Self-Employed,Owned,Single,Home,1
+51,589126,387386,743,16,0,4,4,65.76,Graduate,Business,Mortgaged,Married,Business,0
+34,518860,183343,849,14,1,4,0,35.34,Graduate,Self-Employed,Mortgaged,Single,Home,0
+46,651871,602212,694,6,3,0,5,92.38,Graduate,Self-Employed,Owned,Divorced,Education,1
+36,824885,365775,636,9,3,3,1,44.34,Graduate,Salaried,Rented,Married,Business,1
+35,689680,399820,607,16,1,1,2,57.97,High School,Salaried,Rented,Married,Home,1
+55,505668,74854,729,16,3,1,2,14.8,Graduate,Self-Employed,Mortgaged,Married,Vehicle,0
+24,919784,184822,566,10,1,1,3,20.09,Diploma,Business,Owned,Married,Personal,1
+49,997421,473304,729,16,2,2,6,47.45,Postgraduate,Business,Rented,Married,Vehicle,1
+50,758802,340165,747,6,0,0,1,44.83,High School,Self-Employed,Rented,Married,Business,0
+35,864206,50000,721,8,4,2,1,5.79,High School,Business,Owned,Single,Business,0
+31,923231,445361,675,16,4,0,2,48.24,Postgraduate,Business,Owned,Married,Home,1
+21,898622,223870,730,7,0,2,6,24.91,Diploma,Business,Owned,Single,Business,1
+57,785102,497584,702,15,2,3,6,63.38,Diploma,Business,Rented,Married,Education,0
+57,781636,287703,636,9,3,0,3,36.81,Graduate,Salaried,Rented,Married,Home,0
+30,764325,328659,820,5,2,0,4,43.0,Graduate,Salaried,Rented,Single,Personal,0
+22,408586,465054,665,4,1,4,6,95.0,Postgraduate,Salaried,Owned,Married,Education,1
+25,804159,174351,744,12,4,3,5,21.68,Graduate,Self-Employed,Mortgaged,Married,Business,1
+23,351721,161001,521,9,1,1,4,45.78,High School,Business,Owned,Married,Home,1
+53,475188,272490,779,7,1,4,3,57.34,Postgraduate,Salaried,Mortgaged,Married,Home,0
+55,936784,415804,793,14,1,1,6,44.39,Postgraduate,Salaried,Owned,Married,Business,0
+26,834848,113677,692,0,4,4,1,13.62,High School,Business,Mortgaged,Married,Business,1
+50,977228,66475,729,1,2,0,2,6.8,Graduate,Salaried,Mortgaged,Single,Vehicle,0
+27,590232,415321,729,19,3,3,4,70.37,High School,Business,Mortgaged,Single,Business,1
+35,396505,215583,645,13,4,0,0,54.37,Graduate,Salaried,Rented,Married,Education,1
+44,597104,245088,728,10,4,0,3,41.05,High School,Salaried,Owned,Single,Vehicle,1
+49,672447,50000,633,0,4,2,5,7.44,High School,Salaried,Rented,Single,Personal,0
+55,667378,204943,647,11,4,0,1,30.71,Graduate,Salaried,Rented,Single,Business,1
+22,899410,298941,769,8,4,2,5,33.24,High School,Salaried,Rented,Single,Education,0
+28,570521,430253,758,11,4,1,2,75.41,Graduate,Salaried,Mortgaged,Divorced,Personal,0
+31,727448,192028,641,0,3,0,6,26.4,High School,Salaried,Owned,Single,Education,1
+33,432502,532033,639,11,0,4,4,95.0,High School,Salaried,Owned,Single,Personal,1
+59,749070,204162,645,11,0,4,1,27.26,Postgraduate,Business,Mortgaged,Divorced,Personal,0
+51,650684,204367,741,5,3,4,5,31.41,High School,Salaried,Owned,Divorced,Vehicle,1
+33,485041,515230,620,1,1,0,0,95.0,Diploma,Salaried,Owned,Single,Education,1
+58,598118,329604,715,19,4,1,1,55.11,High School,Salaried,Owned,Divorced,Personal,1
+40,609481,222717,742,14,4,1,6,36.54,High School,Unemployed,Rented,Single,Personal,1
+40,590566,278281,684,12,3,1,6,47.12,High School,Business,Mortgaged,Married,Home,1
+37,1039695,489430,761,15,3,2,0,47.07,Postgraduate,Unemployed,Owned,Single,Vehicle,0
+26,628342,505268,669,13,1,2,2,80.41,High School,Unemployed,Rented,Single,Vehicle,1
+57,596343,185649,675,2,2,2,0,31.13,Diploma,Salaried,Rented,Single,Personal,0
+21,188561,294059,622,9,4,1,1,95.0,Graduate,Self-Employed,Rented,Married,Personal,1
+27,453274,312622,761,17,4,4,6,68.97,Graduate,Salaried,Rented,Single,Personal,1
+29,592124,161926,636,5,1,4,1,27.35,Graduate,Business,Mortgaged,Married,Vehicle,0
+31,499112,292204,714,19,4,1,4,58.54,Graduate,Salaried,Owned,Married,Personal,1
+26,953976,300745,685,1,2,1,5,31.53,Postgraduate,Salaried,Owned,Single,Home,0
+21,613714,459629,616,6,4,2,6,74.89,Graduate,Unemployed,Rented,Divorced,Education,1
+47,933458,469040,647,7,2,1,2,50.25,High School,Business,Rented,Single,Vehicle,1
+58,663575,253911,787,12,3,4,4,38.26,Graduate,Unemployed,Rented,Single,Education,0
+25,658190,270047,704,3,0,2,3,41.03,Graduate,Salaried,Owned,Single,Business,0
+32,630465,393001,619,4,1,0,0,62.34,High School,Salaried,Owned,Single,Vehicle,1
+40,650835,218074,711,13,3,0,1,33.51,Postgraduate,Salaried,Mortgaged,Single,Home,1
+57,1028135,382410,680,5,4,0,5,37.19,Postgraduate,Salaried,Owned,Married,Personal,1
+48,180000,287693,850,17,0,1,4,95.0,High School,Salaried,Rented,Married,Home,0
+50,209660,164284,710,17,0,1,3,78.36,Diploma,Salaried,Rented,Married,Education,1
+43,530502,166043,663,6,3,4,5,31.3,High School,Business,Owned,Married,Home,1
+37,653196,502588,789,11,2,4,4,76.94,Graduate,Salaried,Owned,Married,Vehicle,0
+28,801823,278101,561,6,4,0,2,34.68,Graduate,Self-Employed,Owned,Single,Vehicle,0
+54,754079,529650,697,6,0,4,2,70.24,Diploma,Business,Rented,Married,Business,0
+52,565466,228091,830,13,1,2,6,40.34,High School,Self-Employed,Owned,Divorced,Education,0
+21,874190,340769,682,5,0,1,6,38.98,High School,Salaried,Rented,Single,Vehicle,1
+48,876643,634975,569,2,3,2,0,72.43,High School,Salaried,Owned,Married,Personal,1
+24,690493,151966,662,5,4,2,5,22.01,Graduate,Salaried,Owned,Divorced,Home,1
+49,861785,50000,792,18,0,0,0,5.8,Postgraduate,Business,Owned,Married,Personal,0
+53,709982,480123,716,5,1,4,6,67.62,High School,Salaried,Owned,Divorced,Vehicle,0
+26,526474,184247,631,7,4,0,4,35.0,Diploma,Salaried,Owned,Single,Personal,1
+37,803520,297101,642,12,0,0,4,36.97,Graduate,Unemployed,Mortgaged,Married,Home,1
+25,674335,217971,651,2,4,1,4,32.32,High School,Self-Employed,Owned,Single,Business,0
+43,650295,337543,715,5,4,0,4,51.91,Graduate,Business,Rented,Single,Business,1
+57,974050,166925,784,3,0,0,1,17.14,Diploma,Salaried,Rented,Divorced,Business,0
+24,180000,274808,764,18,0,1,5,95.0,Graduate,Unemployed,Rented,Single,Personal,1
+36,338109,362974,722,18,3,1,3,95.0,High School,Salaried,Rented,Divorced,Home,1
+58,388845,158837,597,15,0,0,3,40.85,Graduate,Salaried,Owned,Married,Education,1
+32,570083,201988,597,4,2,4,2,35.43,High School,Business,Rented,Divorced,Personal,1
+26,593986,251366,727,12,0,4,0,42.32,High School,Business,Owned,Divorced,Personal,0
+40,318388,99966,596,13,2,3,3,31.4,Graduate,Self-Employed,Rented,Married,Education,1
+40,433265,240841,674,17,1,2,2,55.59,Diploma,Salaried,Owned,Divorced,Business,1
+46,460615,316632,711,3,3,4,4,68.74,Diploma,Salaried,Rented,Married,Personal,1
+33,1190633,244063,610,14,4,1,2,20.5,Diploma,Business,Rented,Married,Personal,1
+58,1046383,262007,618,3,2,2,6,25.04,Graduate,Business,Rented,Married,Personal,1
+41,559415,297214,683,11,3,0,4,53.13,High School,Salaried,Owned,Single,Personal,1
+32,570012,208196,725,17,3,3,3,36.52,High School,Salaried,Rented,Single,Education,1
+58,397175,396749,764,1,4,0,4,95.0,High School,Self-Employed,Rented,Single,Business,1
+57,230211,501037,732,2,1,3,4,95.0,Postgraduate,Business,Rented,Married,Education,1
+40,624286,234987,695,16,1,3,4,37.64,High School,Salaried,Owned,Single,Home,0
+21,430473,367928,638,0,1,1,4,85.47,Graduate,Self-Employed,Owned,Married,Personal,1
+44,631333,266454,615,13,3,3,6,42.2,Postgraduate,Unemployed,Owned,Married,Business,1
+42,297955,351168,654,10,4,1,2,95.0,Graduate,Salaried,Rented,Married,Home,1
+26,482366,519209,719,6,1,1,3,95.0,Graduate,Self-Employed,Owned,Divorced,Business,1
+45,682698,371212,714,17,0,2,1,54.37,Graduate,Self-Employed,Rented,Divorced,Vehicle,0
+53,730566,51722,543,16,3,1,3,7.08,Graduate,Self-Employed,Rented,Divorced,Home,1
+25,741844,363559,635,6,2,3,6,49.01,High School,Business,Rented,Married,Business,1
+49,359492,472601,774,0,1,1,4,95.0,High School,Self-Employed,Rented,Single,Business,1
+26,838031,268977,696,2,0,2,1,32.1,Graduate,Self-Employed,Rented,Divorced,Education,0
+50,473953,439389,591,2,4,4,6,92.71,High School,Salaried,Rented,Single,Home,1
+37,789229,203384,850,19,4,1,5,25.77,Diploma,Business,Owned,Single,Business,1
+21,647659,92025,688,11,3,2,3,14.21,Diploma,Salaried,Mortgaged,Single,Home,1
+58,347195,319764,717,13,2,4,1,92.1,Diploma,Salaried,Mortgaged,Married,Personal,1
+27,580437,54093,718,4,1,1,2,9.32,Diploma,Self-Employed,Rented,Married,Vehicle,0
+44,730380,266432,664,17,2,0,5,36.48,High School,Self-Employed,Mortgaged,Single,Personal,1
+28,784852,480158,639,14,0,1,4,61.18,Diploma,Unemployed,Mortgaged,Married,Home,1
+57,618983,50000,839,15,1,4,1,8.08,Diploma,Business,Rented,Single,Home,0
+49,986991,120870,760,9,2,3,1,12.25,Graduate,Business,Rented,Single,Education,1
+52,871652,155515,748,13,2,4,6,17.84,Diploma,Salaried,Rented,Single,Personal,0
+37,593536,291135,730,10,0,1,3,49.05,High School,Self-Employed,Owned,Single,Personal,0
+39,815027,248800,620,7,4,4,4,30.53,High School,Unemployed,Owned,Married,Education,1
+45,1075435,495879,779,11,1,1,2,46.11,Diploma,Salaried,Rented,Single,Vehicle,0
+51,1081307,433609,631,6,2,3,0,40.1,Postgraduate,Business,Rented,Single,Home,1
+54,379840,369338,710,19,2,4,2,95.0,Postgraduate,Self-Employed,Owned,Single,Business,1
+21,446163,320388,575,14,2,1,4,71.81,High School,Salaried,Rented,Married,Vehicle,1
+46,976682,355052,547,14,4,4,2,36.35,High School,Self-Employed,Rented,Divorced,Personal,1
+25,417178,179322,712,14,3,3,4,42.98,Diploma,Salaried,Rented,Married,Education,1
+32,359041,420009,633,8,4,3,3,95.0,Diploma,Salaried,Owned,Married,Personal,1
+53,543037,144314,551,19,1,3,2,26.58,High School,Salaried,Rented,Divorced,Personal,1
+30,742450,416953,728,4,1,0,1,56.16,Diploma,Salaried,Owned,Single,Home,0
+52,627473,466060,838,11,2,3,1,74.28,Graduate,Salaried,Owned,Single,Education,0
+39,506876,329521,787,1,2,1,1,65.01,Diploma,Business,Owned,Married,Personal,0
+30,501673,275330,672,5,1,1,5,54.88,Graduate,Salaried,Owned,Single,Education,1
+34,493286,356043,691,11,2,0,2,72.18,High School,Business,Owned,Married,Business,1
+41,456508,50000,752,9,0,0,5,10.95,Graduate,Self-Employed,Rented,Married,Personal,1
+50,1151959,342316,769,18,2,4,2,29.72,High School,Salaried,Rented,Single,Vehicle,0
+44,715452,284130,666,12,3,1,2,39.71,Postgraduate,Salaried,Owned,Married,Personal,0
+57,845087,292912,692,8,2,1,6,34.66,Graduate,Unemployed,Mortgaged,Single,Vehicle,1
+54,542403,398915,711,8,4,2,6,73.55,High School,Self-Employed,Rented,Single,Business,1
+50,609090,289532,729,12,4,3,2,47.54,High School,Unemployed,Mortgaged,Married,Vehicle,0
+44,493018,140371,681,15,4,2,1,28.47,Graduate,Salaried,Rented,Married,Education,1
+32,180000,280204,682,5,0,2,5,95.0,High School,Business,Owned,Single,Home,1
+37,346838,309458,787,11,4,4,0,89.22,Graduate,Business,Mortgaged,Single,Home,0
+25,251664,316091,775,11,1,2,3,95.0,Graduate,Unemployed,Mortgaged,Single,Education,1
+35,180000,322669,723,0,2,3,4,95.0,Graduate,Salaried,Rented,Single,Vehicle,1
+57,387021,445512,810,18,2,4,4,95.0,High School,Unemployed,Rented,Single,Business,1
+37,941490,147955,663,11,1,3,0,15.71,High School,Salaried,Rented,Single,Home,0
+25,640224,324598,804,4,4,0,0,50.7,High School,Business,Rented,Married,Home,0
+46,933924,480590,728,12,3,1,1,51.46,Diploma,Self-Employed,Rented,Married,Home,0
+58,740416,57154,850,13,4,3,0,7.72,High School,Self-Employed,Rented,Married,Education,0
+54,822163,325151,607,18,4,2,3,39.55,High School,Salaried,Owned,Married,Vehicle,0
+31,451803,218047,642,0,2,1,6,48.26,Diploma,Business,Owned,Married,Home,1
+38,765269,248101,719,8,3,1,2,32.42,Postgraduate,Salaried,Owned,Married,Business,0
+41,810317,173327,718,3,2,0,3,21.39,Graduate,Self-Employed,Owned,Divorced,Business,0
+30,523138,276263,827,11,2,1,1,52.81,Graduate,Self-Employed,Owned,Married,Business,0
+31,773099,557776,643,10,3,3,0,72.15,High School,Business,Mortgaged,Married,Vehicle,0
+30,774561,122980,753,9,3,0,4,15.88,High School,Salaried,Owned,Married,Personal,1
+59,529098,136255,771,19,4,4,1,25.75,Graduate,Self-Employed,Owned,Married,Business,0
+50,402991,117729,739,10,3,1,3,29.21,Diploma,Self-Employed,Owned,Single,Business,0
+53,389492,541839,623,8,3,4,4,95.0,Diploma,Self-Employed,Rented,Single,Home,1
+52,669031,235272,789,1,4,1,5,35.17,Graduate,Self-Employed,Rented,Single,Vehicle,1
+58,721942,296411,776,5,0,4,1,41.06,Graduate,Business,Rented,Single,Education,0
+25,475644,243610,732,17,3,2,4,51.22,Graduate,Business,Mortgaged,Single,Vehicle,1
+55,655849,167781,704,9,1,4,6,25.58,Postgraduate,Self-Employed,Mortgaged,Single,Business,1
+23,775518,267079,706,18,2,0,3,34.44,Diploma,Salaried,Mortgaged,Single,Vehicle,1
+39,786002,644154,684,10,3,3,0,81.95,High School,Self-Employed,Rented,Divorced,Home,1
+44,991414,494890,735,10,1,1,1,49.92,Graduate,Salaried,Owned,Single,Home,0
+34,930936,180589,692,8,4,1,5,19.4,Postgraduate,Salaried,Rented,Single,Home,1
+26,429716,390660,631,11,2,0,5,90.91,Graduate,Business,Owned,Single,Education,1
+28,1020389,183587,617,1,1,4,2,17.99,Postgraduate,Salaried,Rented,Single,Home,1
+53,533185,51309,637,1,1,3,1,9.62,Postgraduate,Self-Employed,Owned,Married,Education,0
+33,879872,442732,706,9,2,4,2,50.32,High School,Unemployed,Owned,Married,Vehicle,1
+33,664957,462413,688,11,4,2,1,69.54,High School,Salaried,Owned,Single,Business,1
+57,559327,446447,705,11,0,0,5,79.82,Diploma,Salaried,Rented,Married,Personal,1
+26,252307,234219,725,8,2,1,5,92.83,Graduate,Salaried,Rented,Single,Personal,1
+56,612256,276651,646,5,4,2,0,45.19,High School,Salaried,Owned,Married,Business,1
+56,306936,404967,793,14,2,0,5,95.0,Graduate,Business,Rented,Divorced,Education,1
+44,862806,354809,671,12,2,4,5,41.12,Graduate,Business,Owned,Divorced,Business,1
+27,983694,244891,660,0,1,4,4,24.9,Diploma,Self-Employed,Rented,Single,Personal,1
+27,474680,73330,724,9,0,2,6,15.45,High School,Salaried,Owned,Married,Education,1
+32,716434,315943,561,14,3,2,0,44.1,Graduate,Self-Employed,Owned,Married,Home,1
+43,490414,451061,635,15,4,3,4,91.98,Postgraduate,Salaried,Rented,Married,Personal,1
+26,511733,132338,759,5,2,3,0,25.86,High School,Self-Employed,Rented,Single,Home,1
+38,820389,389426,568,18,2,0,6,47.47,Diploma,Self-Employed,Mortgaged,Married,Personal,1
+25,641522,346416,768,13,0,2,3,54.0,High School,Salaried,Rented,Single,Home,1
+42,1032723,405021,796,8,4,3,0,39.22,Graduate,Business,Mortgaged,Single,Home,0
+21,543909,422077,664,12,4,4,5,77.6,Postgraduate,Business,Owned,Married,Personal,1
+48,869854,202775,710,17,4,2,5,23.31,Graduate,Salaried,Owned,Married,Business,1
+23,671431,73626,768,4,1,4,3,10.97,Graduate,Self-Employed,Mortgaged,Single,Business,0
+28,825071,225307,657,3,3,2,2,27.31,High School,Self-Employed,Owned,Married,Personal,1
+27,551625,424478,751,8,2,1,0,76.95,High School,Salaried,Rented,Married,Personal,1
+53,639097,224119,643,1,1,2,6,35.07,Graduate,Salaried,Owned,Divorced,Education,1
+23,624590,202834,657,16,1,3,1,32.47,High School,Self-Employed,Rented,Married,Personal,0
+37,466067,50000,634,19,1,4,5,10.73,High School,Unemployed,Owned,Married,Vehicle,1
+44,795658,545371,714,12,2,1,4,68.54,High School,Self-Employed,Rented,Married,Home,1
+41,793055,415600,771,19,0,1,4,52.4,Graduate,Self-Employed,Rented,Single,Personal,1
+47,780582,407785,677,1,3,3,4,52.24,Postgraduate,Self-Employed,Owned,Single,Education,1
+52,988132,435482,601,12,2,3,6,44.07,Graduate,Salaried,Owned,Divorced,Personal,1
+36,968856,380739,614,8,4,1,0,39.3,Graduate,Salaried,Owned,Single,Home,1
+53,567512,265794,718,5,1,3,6,46.83,Graduate,Salaried,Owned,Single,Home,1
+33,732072,277073,819,6,0,0,0,37.85,Graduate,Unemployed,Owned,Married,Home,0
+59,512808,240141,718,10,1,1,6,46.83,Graduate,Business,Mortgaged,Single,Business,1
+40,655138,668864,663,12,4,4,1,95.0,Graduate,Unemployed,Owned,Single,Personal,1
+49,518055,377828,744,3,1,2,5,72.93,Diploma,Salaried,Rented,Married,Education,1
+55,1006415,235068,673,12,3,4,0,23.36,High School,Self-Employed,Rented,Single,Home,1
+51,730014,365170,664,18,4,1,3,50.02,Graduate,Self-Employed,Owned,Married,Vehicle,1
+54,602034,158478,623,0,1,1,3,26.32,Diploma,Salaried,Owned,Single,Vehicle,1
+41,912596,510631,789,17,3,4,6,55.95,Graduate,Salaried,Rented,Married,Business,1
+22,180000,207450,512,12,1,4,0,95.0,Postgraduate,Business,Rented,Single,Business,1
+40,206897,370152,746,6,1,4,0,95.0,Diploma,Self-Employed,Rented,Married,Home,1
+28,825085,449237,658,14,1,1,4,54.45,Postgraduate,Self-Employed,Owned,Single,Education,1
+55,663303,353868,661,12,3,4,0,53.35,Graduate,Salaried,Rented,Single,Business,1
+30,705098,313226,808,15,4,2,5,44.42,Postgraduate,Self-Employed,Mortgaged,Married,Vehicle,1
+29,358193,301512,640,1,1,4,0,84.18,Postgraduate,Salaried,Mortgaged,Single,Education,1
+30,644889,292098,642,1,1,4,6,45.29,High School,Salaried,Mortgaged,Married,Business,1
+46,1090772,219262,681,12,4,2,3,20.1,Postgraduate,Self-Employed,Owned,Single,Education,0
+43,831324,237072,719,6,2,1,6,28.52,Postgraduate,Salaried,Mortgaged,Single,Home,1
+58,687335,507143,659,4,2,4,0,73.78,Graduate,Unemployed,Rented,Single,Vehicle,1
+37,553408,284805,580,8,3,2,1,51.46,High School,Salaried,Rented,Divorced,Personal,1
+32,563194,189989,629,14,0,2,3,33.73,Graduate,Salaried,Rented,Single,Vehicle,1
+22,181576,227718,780,3,4,3,0,95.0,Diploma,Salaried,Mortgaged,Single,Personal,1
+21,706681,454052,695,19,1,4,0,64.25,High School,Business,Rented,Married,Education,0
+35,836006,394585,722,8,3,0,2,47.2,Postgraduate,Salaried,Rented,Single,Education,1
+57,303364,378446,672,3,2,4,5,95.0,High School,Salaried,Rented,Married,Personal,1
+41,504488,263947,644,1,3,2,4,52.32,Graduate,Salaried,Rented,Divorced,Vehicle,1
+55,395358,380271,807,17,3,0,0,95.0,Graduate,Salaried,Rented,Married,Vehicle,0
+24,437623,209901,677,2,0,1,0,47.96,Postgraduate,Self-Employed,Owned,Married,Home,1
+24,661766,263654,659,8,0,2,4,39.84,Postgraduate,Self-Employed,Owned,Single,Business,1
+53,191432,435773,767,13,4,3,2,95.0,High School,Salaried,Owned,Divorced,Education,1
+25,785139,422399,639,10,2,2,5,53.8,Diploma,Business,Rented,Married,Personal,1
+23,815848,162533,648,5,1,0,2,19.92,Postgraduate,Salaried,Rented,Single,Education,1
+36,594757,180226,691,2,0,2,2,30.3,Graduate,Self-Employed,Mortgaged,Divorced,Education,0
+57,180000,315218,690,14,0,1,1,95.0,High School,Salaried,Rented,Divorced,Vehicle,1
+47,430788,541659,708,9,4,1,1,95.0,Graduate,Self-Employed,Rented,Married,Home,1
+24,921238,50000,836,0,4,3,4,5.43,Graduate,Salaried,Owned,Single,Personal,0
+53,180000,338967,714,3,1,4,3,95.0,Diploma,Self-Employed,Rented,Married,Home,1
+53,573545,107354,524,11,1,0,4,18.72,Diploma,Salaried,Mortgaged,Married,Personal,1
+52,390400,211194,713,3,2,3,0,54.1,Diploma,Unemployed,Rented,Married,Home,1
+56,827005,248980,693,7,0,2,3,30.11,Graduate,Salaried,Mortgaged,Single,Education,0
+30,501475,241129,693,2,2,1,3,48.08,Graduate,Unemployed,Mortgaged,Single,Home,1
+59,738870,225269,707,15,3,3,6,30.49,Postgraduate,Unemployed,Owned,Single,Personal,1
+33,774401,301009,688,12,4,1,2,38.87,Diploma,Salaried,Rented,Single,Home,1
+52,1053970,225064,686,15,1,3,0,21.35,Graduate,Salaried,Rented,Married,Business,0
+43,605353,95256,733,1,0,2,4,15.74,Graduate,Salaried,Rented,Single,Personal,1
+51,732730,409182,652,7,0,0,1,55.84,Graduate,Unemployed,Owned,Single,Business,1
+45,323288,405402,624,5,1,3,6,95.0,High School,Self-Employed,Owned,Married,Home,1
+46,911891,418044,850,12,3,4,2,45.84,High School,Self-Employed,Owned,Single,Personal,0
+45,482688,84297,640,16,0,2,5,17.46,High School,Salaried,Rented,Single,Education,1
+51,526634,341849,697,4,3,3,4,64.91,Graduate,Business,Owned,Divorced,Home,1
+49,645105,394637,585,15,2,0,3,61.17,High School,Salaried,Rented,Single,Education,1
+26,306165,155632,698,11,3,1,4,50.83,Postgraduate,Salaried,Rented,Divorced,Personal,1
+53,700329,301284,625,16,2,1,1,43.02,Graduate,Salaried,Rented,Single,Education,1
+41,862843,283723,659,1,0,3,0,32.88,Graduate,Salaried,Mortgaged,Single,Personal,1
+33,714445,557901,763,19,0,1,5,78.09,Postgraduate,Business,Rented,Married,Business,1
+41,300443,569429,723,8,2,3,6,95.0,Graduate,Business,Owned,Single,Education,1
+58,622762,66990,730,5,2,1,6,10.76,Diploma,Salaried,Mortgaged,Married,Vehicle,1
+54,813246,649150,566,3,4,3,2,79.82,Postgraduate,Salaried,Mortgaged,Single,Business,1
+53,236842,171868,819,19,4,1,2,72.57,Postgraduate,Business,Rented,Married,Vehicle,1
+39,413551,437294,607,17,0,2,2,95.0,High School,Self-Employed,Rented,Single,Home,1
+51,842840,435870,797,2,1,0,4,51.71,High School,Salaried,Owned,Married,Vehicle,1
+36,709421,160603,762,8,1,3,4,22.64,Graduate,Salaried,Rented,Married,Personal,1
+47,740634,369057,730,14,0,0,5,49.83,High School,Self-Employed,Owned,Married,Vehicle,1
+45,1059089,284945,630,11,0,4,6,26.9,Graduate,Unemployed,Rented,Single,Vehicle,1
+30,753082,377606,701,3,0,4,2,50.14,Postgraduate,Self-Employed,Owned,Married,Home,1
+31,794735,332294,657,7,2,2,4,41.81,High School,Salaried,Rented,Married,Home,1
+23,1246364,467488,692,7,0,4,3,37.51,High School,Business,Owned,Single,Personal,0
+26,602963,310556,673,5,0,4,6,51.5,Postgraduate,Salaried,Owned,Married,Education,1
+37,474466,276498,547,19,0,0,2,58.28,Graduate,Business,Owned,Single,Business,1
+39,744115,453449,769,4,3,3,1,60.94,Postgraduate,Salaried,Rented,Single,Personal,0
+27,746578,381255,684,14,3,1,2,51.07,Graduate,Salaried,Owned,Married,Vehicle,0
+37,534123,402454,656,18,4,4,4,75.35,Diploma,Salaried,Rented,Single,Personal,1
+44,422873,206958,651,15,0,4,6,48.94,High School,Salaried,Owned,Single,Personal,1
+30,1158166,153663,715,15,1,4,5,13.27,Diploma,Salaried,Rented,Married,Business,0
+34,721906,220519,627,3,2,2,0,30.55,Postgraduate,Self-Employed,Owned,Married,Business,0
+35,488897,213085,532,2,3,0,3,43.58,Diploma,Business,Mortgaged,Single,Education,1
+40,851505,410068,718,15,0,0,1,48.16,Graduate,Business,Owned,Single,Personal,1
+35,625988,436638,726,14,1,0,2,69.75,Graduate,Salaried,Owned,Married,Home,1
+49,594366,278282,676,14,2,4,6,46.82,Graduate,Salaried,Owned,Married,Business,1
+33,773700,500329,610,8,0,2,6,64.67,Graduate,Self-Employed,Owned,Married,Vehicle,1
+37,365786,491586,696,10,1,1,1,95.0,Diploma,Salaried,Rented,Married,Business,1
+35,727578,334076,587,0,3,2,0,45.92,High School,Salaried,Owned,Married,Personal,1
+28,1070850,184935,618,5,2,0,4,17.27,High School,Business,Mortgaged,Divorced,Business,1
+47,752559,520553,637,10,2,2,2,69.17,High School,Unemployed,Rented,Single,Home,1
+30,567233,291458,749,2,2,2,3,51.38,High School,Salaried,Owned,Single,Business,0
+32,538437,317663,665,2,4,3,6,59.0,High School,Business,Rented,Single,Personal,1
+51,559725,252455,659,0,2,0,6,45.1,Diploma,Self-Employed,Owned,Single,Business,1
+58,594128,175429,827,4,2,4,6,29.53,High School,Salaried,Owned,Single,Personal,1
+47,566883,94390,715,19,4,0,5,16.65,High School,Self-Employed,Owned,Married,Personal,0
+56,851589,388602,714,13,0,2,6,45.63,Graduate,Salaried,Owned,Single,Personal,1
+54,268694,190324,664,18,0,1,5,70.83,Diploma,Salaried,Owned,Single,Vehicle,0
+39,839640,728334,648,5,2,3,6,86.74,Graduate,Unemployed,Mortgaged,Married,Education,1
+51,566469,147950,537,11,1,3,3,26.12,Postgraduate,Self-Employed,Rented,Divorced,Personal,1
+33,732929,123966,758,17,1,0,0,16.91,Diploma,Salaried,Mortgaged,Single,Personal,0
+38,402063,371419,721,7,0,2,5,92.38,Graduate,Salaried,Owned,Married,Home,1
+41,942299,514104,677,13,4,2,6,54.56,Graduate,Unemployed,Mortgaged,Married,Home,1
+58,924040,309043,680,13,3,2,2,33.44,Postgraduate,Salaried,Owned,Single,Vehicle,1
+54,861110,380114,742,16,3,0,2,44.14,Postgraduate,Unemployed,Owned,Married,Personal,1
+40,316754,50000,581,19,0,0,4,15.79,Diploma,Business,Rented,Married,Personal,1
+46,832407,205148,649,12,1,2,4,24.65,Diploma,Salaried,Owned,Single,Business,1
+28,739068,149694,610,11,3,1,4,20.25,Postgraduate,Self-Employed,Owned,Married,Home,1
+52,296840,50000,814,17,2,2,2,16.84,Diploma,Self-Employed,Rented,Single,Vehicle,1
+42,644655,316377,751,13,3,0,5,49.08,High School,Business,Rented,Married,Personal,1
+41,730198,50000,536,7,3,3,5,6.85,Diploma,Salaried,Rented,Married,Vehicle,1
+50,772337,114893,584,12,2,0,6,14.88,Graduate,Salaried,Owned,Single,Home,1
+45,688998,224793,681,10,3,3,4,32.63,Postgraduate,Salaried,Owned,Married,Vehicle,1
+23,714071,183620,657,4,1,4,0,25.71,Graduate,Self-Employed,Mortgaged,Single,Personal,1
+32,974195,355497,597,10,0,1,5,36.49,Graduate,Business,Owned,Single,Education,1
+27,919727,342781,826,12,4,0,0,37.27,High School,Business,Owned,Married,Home,0
+49,180000,425132,712,18,0,0,1,95.0,Graduate,Self-Employed,Owned,Single,Vehicle,1
+22,580164,405334,723,11,1,1,1,69.87,High School,Salaried,Mortgaged,Married,Personal,0
+28,613777,459714,642,3,0,0,1,74.9,High School,Salaried,Rented,Single,Education,1
+44,264538,299731,741,19,1,4,5,95.0,Graduate,Business,Rented,Married,Education,1
+48,670720,342485,663,11,1,4,3,51.06,Postgraduate,Self-Employed,Mortgaged,Single,Home,1
+40,924727,371612,670,5,0,4,1,40.19,High School,Business,Owned,Single,Vehicle,0
+54,410955,319832,733,15,2,4,0,77.83,Diploma,Salaried,Mortgaged,Married,Personal,0
+56,724008,244393,576,7,4,2,1,33.76,Graduate,Salaried,Owned,Married,Personal,1
+26,448519,253458,802,7,0,1,4,56.51,Diploma,Unemployed,Owned,Single,Education,1
+58,502179,185542,703,16,4,2,5,36.95,Diploma,Salaried,Owned,Married,Personal,1
+44,975027,359026,780,17,2,1,2,36.82,High School,Salaried,Mortgaged,Single,Vehicle,0
+45,530637,286838,615,10,2,4,0,54.06,Postgraduate,Self-Employed,Mortgaged,Single,Personal,1
+24,751687,207156,625,7,2,2,3,27.56,High School,Self-Employed,Rented,Single,Home,1
+45,238332,207286,609,17,1,1,5,86.97,Diploma,Unemployed,Owned,Married,Vehicle,1
+49,1059710,130544,708,3,0,3,0,12.32,Graduate,Unemployed,Owned,Married,Personal,1
+43,782584,437038,695,14,2,1,5,55.85,Diploma,Business,Rented,Married,Personal,1
+24,609850,311006,657,11,4,1,1,51.0,Diploma,Salaried,Owned,Married,Personal,0
+41,776620,179208,619,17,2,1,1,23.08,Postgraduate,Self-Employed,Owned,Single,Business,1
+57,339840,413197,601,8,2,0,4,95.0,High School,Business,Rented,Single,Personal,1
+49,910157,221537,687,16,3,0,0,24.34,High School,Salaried,Rented,Single,Business,0
+26,578723,103090,657,0,1,2,2,17.81,High School,Unemployed,Mortgaged,Married,Vehicle,1
+58,605105,442971,642,15,0,4,0,73.21,Diploma,Self-Employed,Rented,Single,Education,1
+58,541836,224806,798,1,2,1,1,41.49,Graduate,Salaried,Owned,Married,Business,0
+27,522257,242754,684,12,4,3,5,46.48,Graduate,Self-Employed,Rented,Married,Business,1
+52,802828,305765,779,3,1,1,1,38.09,Graduate,Self-Employed,Owned,Married,Personal,0
+36,706300,459962,653,19,4,1,0,65.12,Diploma,Salaried,Rented,Single,Education,1
+44,793385,302805,707,15,4,0,1,38.17,Postgraduate,Salaried,Rented,Single,Home,1
+38,648065,132124,686,2,1,2,0,20.39,Diploma,Business,Owned,Divorced,Home,1
+51,762904,376143,571,17,2,3,4,49.3,Postgraduate,Salaried,Owned,Married,Personal,1
+59,557853,232101,790,5,3,1,6,41.61,Graduate,Salaried,Mortgaged,Married,Home,1
+52,1140541,564309,681,10,2,2,1,49.48,Diploma,Self-Employed,Rented,Married,Personal,1
+57,305055,299843,742,1,3,2,5,95.0,High School,Business,Rented,Divorced,Home,1
+57,927406,50000,637,2,4,1,2,5.39,Postgraduate,Self-Employed,Rented,Single,Vehicle,1
+24,950940,350031,678,4,3,3,0,36.81,Graduate,Unemployed,Rented,Divorced,Personal,1
+30,462525,572244,629,10,4,2,4,95.0,Graduate,Unemployed,Owned,Single,Education,1
+49,1140440,520629,777,10,4,0,1,45.65,Graduate,Salaried,Rented,Divorced,Personal,0
+44,869008,556334,712,17,4,2,3,64.02,Postgraduate,Salaried,Mortgaged,Single,Home,1
+22,863651,157234,716,3,4,1,3,18.21,High School,Business,Owned,Single,Education,1
+24,656165,427701,785,14,1,3,4,65.18,Graduate,Salaried,Owned,Single,Business,1
+41,602210,198921,771,0,0,1,0,33.03,Graduate,Business,Rented,Married,Personal,0
+45,603930,331401,744,5,0,4,1,54.87,Graduate,Self-Employed,Rented,Divorced,Home,0
+27,735917,121787,590,3,1,3,5,16.55,Postgraduate,Salaried,Owned,Single,Vehicle,1
+27,958261,209776,641,2,3,0,6,21.89,Diploma,Self-Employed,Rented,Single,Business,1
+26,689889,205325,620,11,2,2,0,29.76,Postgraduate,Self-Employed,Rented,Single,Personal,1
+43,449482,425798,741,18,2,4,2,94.73,Graduate,Unemployed,Rented,Single,Personal,1
+21,831374,412101,702,13,0,1,6,49.57,High School,Salaried,Owned,Married,Personal,1
+43,852653,338755,593,17,3,3,2,39.73,Diploma,Unemployed,Owned,Single,Education,1
+39,794025,110941,677,11,1,3,3,13.97,High School,Salaried,Rented,Divorced,Business,1
+39,814010,256370,585,1,3,3,6,31.49,Diploma,Business,Mortgaged,Divorced,Personal,1
+47,590396,195544,686,6,0,0,6,33.12,Diploma,Unemployed,Rented,Single,Personal,1
+41,445622,421755,574,16,1,1,4,94.64,High School,Salaried,Owned,Married,Personal,1
+49,458997,464946,727,0,0,1,4,95.0,Diploma,Salaried,Mortgaged,Divorced,Personal,1
+50,290198,447894,716,1,1,1,4,95.0,Graduate,Business,Owned,Married,Personal,1
+56,702129,194269,824,16,4,4,1,27.67,Diploma,Business,Rented,Married,Home,0
+52,631641,50000,749,1,2,0,6,7.92,Diploma,Salaried,Owned,Single,Vehicle,1
+41,553203,52625,660,19,2,2,0,9.51,Diploma,Self-Employed,Rented,Single,Personal,0
+40,180000,499028,747,15,1,4,0,95.0,Postgraduate,Business,Rented,Married,Education,1
+30,375590,243824,592,13,1,4,4,64.92,High School,Salaried,Rented,Single,Home,1
+44,896585,194899,623,10,3,3,5,21.74,Graduate,Self-Employed,Owned,Married,Education,0
+26,503782,529972,713,1,4,4,5,95.0,High School,Salaried,Rented,Married,Business,1
+57,729330,477122,539,8,3,2,4,65.42,Graduate,Salaried,Owned,Married,Personal,1
+53,344049,303423,687,16,3,3,2,88.19,High School,Business,Mortgaged,Single,Personal,1
+25,966515,258924,619,18,2,2,2,26.79,High School,Salaried,Owned,Single,Home,0
+51,618314,281506,697,8,0,0,2,45.53,Graduate,Unemployed,Rented,Married,Education,1
+25,713809,331803,615,16,3,0,1,46.48,Graduate,Self-Employed,Rented,Single,Home,1
+49,1161672,524007,720,15,4,4,2,45.11,Graduate,Self-Employed,Owned,Single,Personal,0
+24,983617,359145,691,1,2,0,0,36.51,High School,Salaried,Owned,Divorced,Home,0
+40,582556,401644,788,12,0,1,2,68.95,High School,Salaried,Owned,Married,Business,0
+46,519492,463698,690,12,3,3,6,89.26,High School,Business,Rented,Married,Business,1
+49,578380,136245,636,10,4,2,4,23.56,Graduate,Self-Employed,Mortgaged,Married,Business,1
+37,762178,405681,673,15,1,2,0,53.23,Diploma,Business,Rented,Single,Business,0
+56,626851,258760,596,17,0,4,2,41.28,High School,Salaried,Mortgaged,Divorced,Business,1
+51,563046,50000,718,11,3,3,1,8.88,Graduate,Salaried,Owned,Married,Business,0
+29,972780,50000,731,6,1,4,1,5.14,Graduate,Salaried,Owned,Single,Home,0
+47,624874,157464,850,19,3,3,4,25.2,Postgraduate,Business,Mortgaged,Single,Vehicle,0
+49,1155910,374371,646,19,3,4,6,32.39,Postgraduate,Salaried,Mortgaged,Single,Education,1
+34,669963,315932,671,13,1,3,4,47.16,Graduate,Self-Employed,Owned,Married,Vehicle,1
+49,1042770,325811,650,12,0,2,3,31.24,Graduate,Salaried,Rented,Married,Personal,0
+56,728610,573132,705,2,2,4,1,78.66,Graduate,Salaried,Mortgaged,Married,Vehicle,0
+52,861851,122327,717,8,2,4,1,14.19,Graduate,Self-Employed,Rented,Divorced,Personal,0
+50,490586,296159,686,3,4,0,5,60.37,Graduate,Self-Employed,Rented,Married,Home,1
+45,462173,342621,766,10,1,4,4,74.13,Diploma,Unemployed,Owned,Married,Personal,0
+31,751135,196922,647,16,1,3,3,26.22,High School,Salaried,Owned,Married,Home,0
+52,867482,303966,759,4,4,4,4,35.04,Postgraduate,Self-Employed,Rented,Married,Education,1
+35,658856,76007,728,19,3,3,5,11.54,High School,Salaried,Rented,Single,Vehicle,0
+41,366993,497387,689,2,3,4,5,95.0,High School,Business,Owned,Married,Business,1
+33,350743,204574,668,1,4,1,0,58.33,Graduate,Self-Employed,Owned,Married,Home,1
+33,336030,584396,850,19,3,0,2,95.0,Graduate,Salaried,Owned,Single,Personal,0
+27,261123,295454,633,2,4,0,0,95.0,Graduate,Business,Rented,Married,Business,1
+58,674087,443927,711,14,3,1,2,65.86,High School,Salaried,Owned,Married,Personal,1
+26,897510,292538,637,15,2,1,4,32.59,Postgraduate,Salaried,Owned,Single,Business,1
+24,647049,295696,815,6,0,2,1,45.7,Postgraduate,Salaried,Owned,Married,Business,0
+57,180000,218236,752,1,3,0,1,95.0,High School,Salaried,Mortgaged,Single,Personal,0
+42,608033,316677,643,6,3,0,3,52.08,Diploma,Business,Rented,Married,Home,1
+38,614184,344520,726,1,4,2,3,56.09,Graduate,Business,Owned,Married,Business,1
+49,1111120,190204,708,13,3,3,4,17.12,High School,Business,Rented,Single,Vehicle,0
+35,329430,282494,654,17,2,0,0,85.75,Postgraduate,Business,Owned,Married,Business,1
+25,564051,214586,743,19,2,2,1,38.04,High School,Business,Rented,Single,Home,0
+49,1025288,621953,717,16,0,3,5,60.66,High School,Salaried,Rented,Single,Education,1
+27,748995,287438,705,15,0,3,4,38.38,High School,Salaried,Rented,Married,Business,1
+42,773929,516333,687,17,0,0,6,66.72,Graduate,Salaried,Rented,Single,Education,0
+58,675209,272613,720,15,4,3,5,40.37,Postgraduate,Unemployed,Owned,Divorced,Vehicle,1
+57,722588,336300,706,13,3,0,5,46.54,Diploma,Unemployed,Owned,Single,Education,1
+35,821074,115009,694,19,1,1,3,14.01,Postgraduate,Business,Owned,Single,Personal,1
+51,471913,237410,645,6,2,1,6,50.31,Diploma,Salaried,Rented,Divorced,Home,1
+44,843173,329475,809,8,2,4,2,39.08,Postgraduate,Salaried,Rented,Married,Vehicle,0
+39,347939,522041,616,18,1,0,6,95.0,Postgraduate,Business,Rented,Married,Personal,1
+26,722241,331078,720,6,2,3,2,45.84,Postgraduate,Salaried,Owned,Married,Personal,1
+35,689323,493721,668,5,1,4,3,71.62,Postgraduate,Self-Employed,Rented,Married,Home,1
+46,514416,389702,813,3,3,4,4,75.76,Diploma,Salaried,Owned,Single,Education,0
+59,645009,527836,627,5,3,1,2,81.83,Graduate,Salaried,Owned,Single,Home,1
+21,513041,291734,639,11,0,0,1,56.86,High School,Self-Employed,Rented,Divorced,Personal,0
+48,414226,634631,622,17,2,1,6,95.0,High School,Unemployed,Owned,Single,Education,1
+54,572205,232045,713,2,4,3,3,40.55,Diploma,Business,Owned,Married,Education,0
+58,407123,192695,594,13,4,0,6,47.33,High School,Self-Employed,Owned,Married,Vehicle,1
+37,721015,130593,657,15,3,3,2,18.11,Diploma,Salaried,Rented,Married,Business,1
+25,396981,626343,539,17,3,1,6,95.0,Diploma,Unemployed,Owned,Married,Home,1
+31,806635,414723,707,15,0,3,4,51.41,Graduate,Self-Employed,Mortgaged,Divorced,Personal,1
+54,390075,253223,655,3,4,3,5,64.92,Diploma,Self-Employed,Mortgaged,Single,Education,1
+55,525415,474863,586,9,3,2,5,90.38,Diploma,Self-Employed,Rented,Married,Business,1
+45,512587,396277,766,19,4,3,1,77.31,Graduate,Salaried,Owned,Married,Personal,1
+25,941532,575258,598,18,4,4,5,61.1,High School,Salaried,Rented,Single,Home,1
+25,722664,83303,746,12,1,1,6,11.53,Graduate,Business,Owned,Divorced,Home,0
+39,603419,262850,641,19,0,2,4,43.56,High School,Self-Employed,Mortgaged,Married,Education,1
+43,759718,235247,802,13,3,3,6,30.97,Graduate,Salaried,Rented,Single,Personal,1
+22,186418,50000,742,1,2,4,5,26.82,High School,Salaried,Owned,Married,Home,1
+47,640511,448446,619,18,0,2,4,70.01,Postgraduate,Unemployed,Owned,Divorced,Personal,1
+42,1089453,262144,626,3,1,1,3,24.06,High School,Self-Employed,Rented,Single,Education,1
+21,679116,403548,732,7,4,4,6,59.42,Graduate,Self-Employed,Mortgaged,Married,Business,1
+24,664941,630368,672,4,1,4,1,94.8,High School,Salaried,Rented,Single,Business,1
+38,770588,250546,678,14,1,2,3,32.51,Postgraduate,Unemployed,Rented,Single,Home,0
+49,847033,241039,779,0,3,0,5,28.46,High School,Business,Rented,Single,Vehicle,1
+53,210557,316613,638,12,3,1,6,95.0,Graduate,Self-Employed,Mortgaged,Married,Personal,1
+37,279888,438215,696,17,1,2,1,95.0,Graduate,Salaried,Rented,Single,Education,1
+32,696264,220660,757,15,4,3,0,31.69,Postgraduate,Self-Employed,Owned,Single,Business,0
+58,492727,211665,747,6,2,3,2,42.96,Diploma,Business,Rented,Married,Personal,0
+38,938646,448006,679,17,0,4,6,47.73,Graduate,Business,Mortgaged,Single,Home,1
+33,580662,353010,670,7,1,0,3,60.79,High School,Unemployed,Owned,Single,Education,1
+38,224403,50000,568,13,4,2,0,22.28,Graduate,Self-Employed,Owned,Single,Vehicle,1
+21,371037,128445,616,10,0,3,0,34.62,High School,Salaried,Owned,Married,Home,1
+32,180000,510173,712,1,0,4,2,95.0,Graduate,Self-Employed,Owned,Married,Personal,1
+41,598492,356270,680,0,3,0,2,59.53,Postgraduate,Business,Rented,Married,Personal,1
+56,608555,193293,695,3,2,4,0,31.76,Postgraduate,Salaried,Owned,Single,Vehicle,1
+49,556618,276143,763,18,1,0,3,49.61,Graduate,Salaried,Rented,Married,Personal,1
+51,887353,301853,607,19,2,0,3,34.02,Graduate,Business,Owned,Married,Home,1
+42,913674,403003,673,8,0,4,1,44.11,Graduate,Salaried,Mortgaged,Single,Personal,1
+25,612515,109843,703,19,1,3,1,17.93,High School,Business,Mortgaged,Single,Personal,0
+36,180367,182267,641,0,1,4,4,95.0,Diploma,Salaried,Rented,Single,Home,1
+59,785802,338214,790,19,2,3,6,43.04,Postgraduate,Salaried,Rented,Single,Business,1
+22,772179,286023,754,4,3,3,6,37.04,Diploma,Salaried,Owned,Single,Personal,0
+55,718066,380060,710,0,4,2,3,52.93,Postgraduate,Self-Employed,Mortgaged,Divorced,Vehicle,1
+47,865926,127869,816,15,0,2,0,14.77,Graduate,Business,Rented,Married,Vehicle,0
+32,393738,349998,585,7,1,2,6,88.89,Graduate,Salaried,Owned,Married,Business,1
+51,1091926,452822,689,5,1,1,6,41.47,Postgraduate,Salaried,Mortgaged,Single,Home,1
+53,438926,368155,716,15,2,4,1,83.88,Graduate,Salaried,Owned,Married,Home,1
+22,814829,319476,626,6,2,1,2,39.21,Diploma,Business,Rented,Married,Vehicle,0
+25,278784,286576,711,15,4,3,0,95.0,High School,Unemployed,Owned,Divorced,Business,1
+46,445342,183121,613,3,4,3,5,41.12,High School,Business,Rented,Single,Vehicle,1
+59,983601,289920,738,1,3,2,5,29.48,Postgraduate,Salaried,Owned,Married,Education,0
+21,592602,476359,764,6,0,3,0,80.38,Postgraduate,Self-Employed,Owned,Single,Home,0
+46,834783,283336,709,12,0,0,4,33.94,High School,Salaried,Rented,Married,Home,0
+26,702130,175427,560,4,4,1,2,24.99,Graduate,Salaried,Mortgaged,Divorced,Business,1
+46,626909,231085,622,2,4,2,3,36.86,Graduate,Salaried,Owned,Married,Home,1
+45,950047,328119,730,14,1,1,1,34.54,Graduate,Salaried,Rented,Married,Business,0
+24,597935,247708,691,9,0,4,5,41.43,Graduate,Salaried,Rented,Married,Education,0
+47,258238,367942,501,8,3,4,2,95.0,High School,Business,Mortgaged,Divorced,Business,1
+55,473287,373198,777,4,2,3,5,78.85,Graduate,Salaried,Owned,Single,Vehicle,1
+54,771262,424458,700,0,4,1,1,55.03,Graduate,Business,Rented,Single,Personal,1
+22,737012,499298,633,1,2,0,4,67.75,Diploma,Unemployed,Mortgaged,Married,Home,1
+30,305247,439420,760,13,3,3,2,95.0,Diploma,Self-Employed,Owned,Divorced,Personal,0
+30,490645,169207,643,1,3,4,6,34.49,Postgraduate,Self-Employed,Rented,Married,Vehicle,1
+38,522021,173505,642,4,0,2,3,33.24,Postgraduate,Business,Mortgaged,Single,Home,1
+26,569597,289392,715,18,0,4,5,50.81,High School,Salaried,Owned,Married,Business,0
+54,347299,236835,815,6,3,4,0,68.19,Graduate,Salaried,Owned,Single,Vehicle,0
+51,511758,140634,804,14,0,2,4,27.48,Postgraduate,Self-Employed,Owned,Single,Education,0
+52,489706,238163,715,6,1,1,0,48.63,Graduate,Business,Rented,Single,Personal,0
+28,819737,233568,722,18,3,0,2,28.49,Postgraduate,Business,Mortgaged,Single,Personal,0
+21,828007,205941,745,16,1,3,1,24.87,Diploma,Business,Rented,Married,Business,0
+56,617922,255789,602,9,0,2,0,41.4,High School,Self-Employed,Rented,Single,Personal,1
+32,563751,464983,735,13,0,0,4,82.48,Diploma,Self-Employed,Owned,Single,Education,1
+46,680783,327893,639,8,2,0,1,48.16,High School,Business,Owned,Married,Home,0
+56,470353,646053,712,18,3,4,3,95.0,High School,Business,Owned,Single,Personal,1
+22,397697,323871,674,7,3,1,5,81.44,High School,Self-Employed,Owned,Single,Vehicle,1
+21,443151,259391,725,16,4,1,1,58.53,High School,Unemployed,Owned,Single,Home,1
+21,510341,300579,698,12,3,3,4,58.9,Postgraduate,Business,Rented,Single,Home,1
+27,394036,335909,475,12,3,1,2,85.25,Graduate,Self-Employed,Owned,Married,Vehicle,1
+23,685653,360936,703,7,1,4,2,52.64,High School,Salaried,Owned,Single,Vehicle,1
+52,810537,590740,735,16,1,3,4,72.88,Graduate,Salaried,Owned,Single,Vehicle,1
+44,300838,181655,721,14,1,1,4,60.38,Postgraduate,Business,Owned,Single,Business,0
+59,655528,420266,683,16,0,1,4,64.11,Graduate,Salaried,Owned,Single,Personal,1
+52,601614,329085,805,16,4,4,1,54.7,High School,Salaried,Owned,Single,Personal,0
+58,725132,80046,712,3,1,2,4,11.04,Graduate,Self-Employed,Owned,Single,Home,0
+30,647153,407898,721,17,2,4,1,63.03,Graduate,Business,Rented,Single,Home,1
+32,330208,477467,763,16,1,1,1,95.0,Postgraduate,Business,Rented,Single,Business,0
+54,372274,179995,715,4,0,0,6,48.35,Graduate,Business,Mortgaged,Married,Home,1
+30,656473,298749,627,19,4,4,0,45.51,Diploma,Salaried,Rented,Single,Vehicle,1
+23,876332,58450,519,10,1,1,2,6.67,Postgraduate,Salaried,Rented,Single,Business,1
+47,180000,123767,657,6,0,4,3,68.76,Graduate,Self-Employed,Mortgaged,Married,Personal,1
+52,726060,446724,743,4,1,3,1,61.53,Graduate,Salaried,Rented,Single,Home,0
+58,911717,234702,665,7,0,1,5,25.74,Diploma,Self-Employed,Rented,Married,Business,1
+57,616334,144768,746,0,4,3,3,23.49,High School,Unemployed,Owned,Single,Business,1
+25,771045,332124,700,13,0,0,5,43.07,Postgraduate,Self-Employed,Owned,Married,Personal,1
+51,495325,226862,780,14,1,1,2,45.8,Graduate,Self-Employed,Owned,Divorced,Vehicle,0
+53,623739,234085,669,13,1,1,6,37.53,High School,Self-Employed,Owned,Single,Personal,1
+48,293399,403506,723,10,0,3,5,95.0,Diploma,Business,Rented,Single,Personal,1
+52,180000,137357,725,7,0,2,2,76.31,Postgraduate,Salaried,Owned,Married,Vehicle,1
+53,857408,173249,795,14,2,3,6,20.21,Graduate,Self-Employed,Rented,Divorced,Business,0
+38,433301,321571,571,17,1,2,6,74.21,Graduate,Salaried,Mortgaged,Single,Business,1
+22,549784,435717,658,1,0,3,4,79.25,Graduate,Self-Employed,Rented,Married,Vehicle,1
+38,344983,473342,749,7,1,0,0,95.0,High School,Salaried,Owned,Single,Education,0
+28,339807,206891,798,19,1,3,4,60.89,Diploma,Self-Employed,Rented,Married,Education,1
+25,611756,431233,707,17,2,0,4,70.49,Diploma,Business,Owned,Single,Personal,1
+25,489493,190220,670,19,4,0,2,38.86,High School,Salaried,Mortgaged,Married,Home,1
+48,733154,555669,743,3,1,3,1,75.79,Graduate,Self-Employed,Rented,Single,Education,0
+40,749558,141272,751,9,3,0,3,18.85,Diploma,Salaried,Rented,Married,Home,0
+42,720587,485987,665,2,3,3,5,67.44,Graduate,Salaried,Rented,Single,Business,1
+50,702492,208092,713,17,0,0,2,29.62,Graduate,Salaried,Rented,Married,Business,0
+42,997109,581855,773,10,2,0,3,58.35,High School,Salaried,Rented,Married,Education,0
+45,415129,382785,822,4,2,4,0,92.21,Graduate,Unemployed,Owned,Married,Education,1
+24,637914,157758,742,1,2,0,4,24.73,Diploma,Unemployed,Owned,Divorced,Vehicle,1
+54,899192,226887,693,14,0,4,6,25.23,Diploma,Business,Owned,Married,Vehicle,0
+38,928199,409365,686,16,2,1,5,44.1,High School,Self-Employed,Rented,Married,Business,1
+27,337212,447370,729,17,0,3,3,95.0,High School,Business,Mortgaged,Single,Home,0
+52,581282,290100,682,19,4,4,0,49.91,Postgraduate,Business,Rented,Divorced,Personal,0
+49,948787,306252,703,16,2,0,3,32.28,Graduate,Self-Employed,Rented,Married,Business,1
+23,761777,406169,616,15,0,1,6,53.32,High School,Salaried,Mortgaged,Married,Personal,1
+28,692958,318452,781,16,2,2,0,45.96,High School,Business,Owned,Married,Vehicle,0
+21,602109,118909,610,19,4,4,1,19.75,Diploma,Unemployed,Owned,Married,Education,1
+31,565564,186184,660,9,3,0,5,32.92,Graduate,Salaried,Mortgaged,Married,Home,1
+24,713408,332917,697,15,1,0,3,46.67,Graduate,Salaried,Mortgaged,Married,Personal,0
+48,594478,470168,829,16,4,1,1,79.09,Postgraduate,Salaried,Rented,Married,Business,0
+41,640633,526238,660,2,0,1,0,82.14,High School,Salaried,Owned,Single,Business,0
+59,667292,409134,643,13,1,1,2,61.31,High School,Business,Mortgaged,Divorced,Business,1
+50,500824,340221,651,6,0,0,4,67.93,Diploma,Salaried,Rented,Married,Vehicle,1
+44,767068,404834,806,2,4,4,5,52.78,Graduate,Unemployed,Rented,Married,Business,1
+40,1291134,206655,493,3,3,3,6,16.01,Postgraduate,Business,Owned,Married,Personal,1
+23,259063,278548,620,2,2,0,3,95.0,Graduate,Salaried,Rented,Married,Home,1
+23,721283,184622,850,17,3,2,2,25.6,Graduate,Business,Mortgaged,Married,Personal,0
+45,482758,125176,731,15,1,3,6,25.93,Postgraduate,Business,Mortgaged,Married,Personal,1
+21,777029,346697,613,2,0,3,5,44.62,High School,Self-Employed,Rented,Married,Personal,1
+22,660243,325972,687,12,4,4,1,49.37,Postgraduate,Self-Employed,Rented,Married,Personal,1
+29,817608,396271,695,13,4,3,4,48.47,Postgraduate,Business,Rented,Married,Vehicle,0
+55,908611,376456,749,10,0,3,5,41.43,High School,Salaried,Rented,Single,Business,0
+38,692333,333970,819,12,0,0,1,48.24,Diploma,Salaried,Owned,Married,Home,0
+48,899052,377926,717,18,2,0,6,42.04,Graduate,Salaried,Owned,Married,Personal,1
+37,180000,294024,652,10,0,3,2,95.0,Graduate,Salaried,Owned,Married,Home,1
+27,999900,357805,745,13,3,4,3,35.78,High School,Self-Employed,Rented,Divorced,Personal,0
+35,732514,198340,641,11,4,1,3,27.08,High School,Salaried,Owned,Single,Vehicle,1
+24,887126,351759,618,7,1,3,4,39.65,Diploma,Self-Employed,Owned,Single,Home,1
+51,381627,393578,567,17,1,1,6,95.0,Graduate,Salaried,Mortgaged,Married,Home,1
+28,467231,206245,580,8,4,2,2,44.14,High School,Business,Rented,Divorced,Business,1
+35,682106,307256,627,15,1,3,2,45.05,Diploma,Self-Employed,Owned,Married,Home,1
+59,646252,212696,608,12,1,3,5,32.91,Postgraduate,Unemployed,Owned,Single,Home,1
+44,712275,226289,712,13,0,0,6,31.77,Postgraduate,Unemployed,Rented,Married,Home,1
+38,888593,142510,606,15,4,4,6,16.04,Diploma,Salaried,Owned,Married,Vehicle,1
+42,261652,477208,470,14,4,4,5,95.0,Graduate,Self-Employed,Rented,Married,Personal,1
+51,864240,449196,617,11,0,2,4,51.98,High School,Salaried,Rented,Single,Education,1
+30,651822,375241,657,12,4,1,5,57.57,Diploma,Business,Owned,Single,Vehicle,1
+45,605168,576107,648,10,0,2,6,95.0,Graduate,Self-Employed,Rented,Married,Home,1
+55,326355,273506,796,6,0,4,0,83.81,High School,Salaried,Owned,Married,Home,1
+43,760671,724447,647,14,1,2,4,95.0,Postgraduate,Salaried,Rented,Married,Vehicle,1
+38,180000,268146,752,17,2,0,0,95.0,Diploma,Salaried,Owned,Single,Home,0
+26,792647,335727,689,14,4,0,4,42.36,Diploma,Business,Owned,Single,Home,1
+30,321737,244311,687,15,3,4,2,75.94,Diploma,Business,Owned,Single,Home,1
+57,661761,352126,632,16,0,3,2,53.21,Graduate,Salaried,Mortgaged,Divorced,Vehicle,0
+42,623783,416986,686,7,2,3,6,66.85,High School,Salaried,Owned,Single,Personal,1
+32,907298,284052,636,1,4,0,4,31.31,Diploma,Salaried,Owned,Married,Home,0
+37,610696,548741,702,6,3,0,3,89.86,High School,Self-Employed,Owned,Married,Business,1
+43,497290,333481,673,15,1,1,6,67.06,High School,Salaried,Rented,Married,Business,1
+41,538547,337868,624,16,0,1,0,62.74,Graduate,Salaried,Rented,Single,Personal,0
+48,930034,172740,759,10,2,1,4,18.57,Diploma,Business,Mortgaged,Married,Home,0
+31,767985,358590,720,15,2,2,1,46.69,Graduate,Salaried,Rented,Married,Personal,0
+46,565161,281236,659,1,1,1,1,49.76,Graduate,Business,Rented,Single,Personal,1
+38,597982,214846,700,12,0,0,1,35.93,Diploma,Self-Employed,Rented,Married,Personal,0
+57,305221,191294,684,13,0,2,3,62.67,Diploma,Salaried,Owned,Single,Personal,1
+27,735464,674047,629,10,2,3,4,91.65,Diploma,Self-Employed,Mortgaged,Divorced,Home,1
+26,262841,263113,695,14,4,3,5,95.0,Postgraduate,Salaried,Mortgaged,Married,Personal,1
+39,815395,96022,647,9,2,1,3,11.78,Graduate,Salaried,Owned,Single,Personal,1
+40,678297,202249,624,10,2,1,6,29.82,Postgraduate,Unemployed,Rented,Married,Home,1
+47,1175129,292781,576,12,4,2,2,24.91,Graduate,Business,Owned,Married,Home,1
+36,407970,376533,665,15,3,0,1,92.29,Diploma,Business,Rented,Married,Personal,1
+56,627414,377672,730,4,3,4,0,60.19,High School,Salaried,Rented,Single,Home,0
+39,1045623,394726,641,6,2,4,0,37.75,Postgraduate,Salaried,Mortgaged,Single,Personal,1
+26,912106,209720,850,8,3,0,3,22.99,Graduate,Salaried,Owned,Married,Education,0
+25,496833,347662,752,4,2,4,2,69.98,Postgraduate,Unemployed,Rented,Married,Business,1
+58,699273,177352,781,6,3,0,5,25.36,Diploma,Business,Rented,Married,Home,0
+26,650440,213250,746,7,3,2,0,32.79,High School,Self-Employed,Owned,Single,Business,0
+57,712030,171521,820,6,3,3,1,24.09,Graduate,Unemployed,Rented,Married,Education,0
+31,496290,133626,635,8,4,1,6,26.92,Graduate,Salaried,Rented,Single,Personal,1
+24,630350,448989,511,10,1,1,0,71.23,Postgraduate,Self-Employed,Rented,Married,Home,1
+32,298428,396406,659,13,3,0,2,95.0,Graduate,Salaried,Mortgaged,Single,Home,1
+44,679727,436733,729,6,0,3,1,64.25,Diploma,Salaried,Owned,Single,Home,0
+37,749005,305504,701,16,2,0,3,40.79,High School,Unemployed,Owned,Single,Home,1
+51,599968,408753,709,9,4,2,6,68.13,Graduate,Business,Owned,Married,Personal,1
+44,294689,53419,782,14,3,1,1,18.13,High School,Salaried,Owned,Single,Home,0
+36,867477,420832,717,2,1,4,2,48.51,Postgraduate,Salaried,Rented,Married,Home,0
+45,730196,324797,746,3,3,4,3,44.48,Graduate,Self-Employed,Mortgaged,Single,Personal,1
+58,490277,387795,624,9,1,4,5,79.1,High School,Salaried,Rented,Married,Vehicle,1
+37,588268,353203,613,7,2,3,6,60.04,Graduate,Self-Employed,Rented,Married,Vehicle,1
+26,319853,161812,803,9,1,2,0,50.59,Postgraduate,Self-Employed,Owned,Single,Business,0
+36,424410,90274,697,3,3,1,3,21.27,Diploma,Salaried,Owned,Single,Vehicle,0
+53,531682,200312,646,9,0,0,5,37.68,Diploma,Salaried,Mortgaged,Single,Personal,1
+29,920253,379088,647,13,2,4,0,41.19,Graduate,Salaried,Rented,Married,Business,0
+58,509309,396613,645,14,4,1,5,77.87,High School,Unemployed,Owned,Divorced,Vehicle,1
+43,790847,108488,640,4,3,2,1,13.72,Graduate,Salaried,Mortgaged,Single,Business,1
+44,531570,162646,600,6,2,0,3,30.6,High School,Self-Employed,Rented,Married,Personal,1
+33,704548,198747,585,10,4,1,6,28.21,Graduate,Salaried,Owned,Married,Vehicle,1
+56,618893,249977,676,10,0,3,4,40.39,High School,Business,Rented,Married,Business,1
+22,842072,109313,648,15,4,2,6,12.98,Graduate,Salaried,Rented,Married,Education,1
+32,532342,100913,768,7,1,2,4,18.96,Diploma,Salaried,Owned,Divorced,Education,0
+37,304044,184943,711,13,4,1,1,60.83,Diploma,Business,Mortgaged,Married,Business,0
+39,345971,312076,709,17,4,0,4,90.2,Graduate,Business,Rented,Married,Home,1
+39,532987,134717,638,5,3,4,4,25.28,High School,Salaried,Rented,Single,Education,1
+26,375207,283788,682,16,3,2,2,75.63,Graduate,Salaried,Mortgaged,Married,Home,1
+29,740247,448197,715,6,3,1,0,60.55,High School,Unemployed,Rented,Divorced,Business,1
+24,547531,117751,740,6,1,1,4,21.51,Graduate,Salaried,Owned,Divorced,Business,1
+43,1172413,271098,683,13,0,3,4,23.12,Graduate,Salaried,Owned,Single,Vehicle,1
+34,267703,443466,766,12,1,2,5,95.0,High School,Salaried,Owned,Married,Home,1
+43,694799,241442,691,10,2,1,0,34.75,Postgraduate,Salaried,Owned,Single,Personal,0
+43,401850,219686,745,4,3,4,3,54.67,High School,Self-Employed,Owned,Married,Vehicle,1
+48,541452,462889,656,1,1,4,5,85.49,High School,Self-Employed,Rented,Single,Vehicle,1
+42,681112,257132,563,18,2,0,6,37.75,Graduate,Self-Employed,Owned,Married,Home,1
+46,180000,454629,709,17,0,3,6,95.0,Graduate,Self-Employed,Owned,Single,Business,1
+43,702102,360055,741,17,0,4,1,51.28,High School,Salaried,Rented,Single,Vehicle,0
+46,1068640,252002,730,10,4,2,1,23.58,High School,Business,Owned,Single,Personal,0
+45,550244,367157,720,17,4,0,4,66.73,Graduate,Salaried,Rented,Single,Business,1
+33,707158,344863,666,9,4,0,3,48.77,Postgraduate,Salaried,Rented,Married,Home,1
+30,875483,442924,634,1,1,3,1,50.59,High School,Self-Employed,Owned,Married,Business,0
+51,613930,223232,729,3,2,4,0,36.36,High School,Salaried,Owned,Married,Vehicle,0
+34,522189,305769,720,5,3,0,1,58.56,Diploma,Salaried,Rented,Married,Home,1
+42,180000,291388,651,7,1,2,2,95.0,Postgraduate,Salaried,Owned,Married,Business,1
+28,791018,398581,768,18,3,2,5,50.39,High School,Business,Rented,Single,Home,1
+37,625103,156475,628,6,3,1,0,25.03,High School,Salaried,Rented,Married,Personal,1
+41,427210,442377,649,12,2,3,0,95.0,Graduate,Business,Rented,Married,Business,1
+45,677851,365286,805,5,2,4,1,53.89,Graduate,Business,Rented,Single,Home,0
+41,521590,115630,751,12,1,1,6,22.17,Graduate,Self-Employed,Mortgaged,Married,Personal,1
+35,533746,469157,665,11,4,0,6,87.9,Diploma,Salaried,Owned,Married,Education,1
+58,783384,612773,710,3,4,1,3,78.22,Graduate,Business,Mortgaged,Married,Home,1
+40,355556,440257,701,9,4,1,0,95.0,High School,Salaried,Rented,Married,Education,1
+52,880409,499778,498,2,3,3,0,56.77,High School,Unemployed,Owned,Single,Personal,1
+49,342509,311952,627,17,1,2,6,91.08,Postgraduate,Business,Owned,Married,Education,1
+42,504206,67389,686,14,3,0,3,13.37,Diploma,Salaried,Owned,Single,Education,1
+55,1073048,50000,665,18,1,1,0,4.66,High School,Business,Mortgaged,Married,Education,0
+26,898018,335711,707,17,4,3,5,37.38,Graduate,Self-Employed,Owned,Single,Vehicle,1
+56,671473,217123,769,4,1,2,3,32.34,High School,Salaried,Mortgaged,Married,Home,0
+54,443083,171959,667,14,2,2,2,38.81,Postgraduate,Salaried,Rented,Married,Business,1
+40,533560,291215,616,2,0,1,3,54.58,Graduate,Self-Employed,Rented,Single,Personal,1
+49,666121,386182,713,19,0,1,1,57.97,High School,Business,Rented,Single,Business,1
+41,658255,96614,667,15,1,0,6,14.68,High School,Business,Owned,Single,Home,1
+31,630008,237157,679,13,2,0,5,37.64,Graduate,Salaried,Rented,Married,Education,1
+52,643217,511382,670,19,0,0,1,79.5,Diploma,Self-Employed,Mortgaged,Divorced,Home,1
+30,602837,149460,847,16,4,3,5,24.79,High School,Self-Employed,Owned,Single,Vehicle,0
+33,332765,421767,533,17,0,0,1,95.0,High School,Self-Employed,Mortgaged,Married,Business,1
+41,536368,232138,663,2,4,2,3,43.28,Graduate,Self-Employed,Mortgaged,Married,Vehicle,1
+53,851217,376411,690,0,1,4,5,44.22,Graduate,Salaried,Owned,Married,Personal,1
+35,348966,453626,635,19,1,3,0,95.0,Postgraduate,Business,Rented,Married,Education,1
+40,608298,403779,753,5,0,2,5,66.38,High School,Salaried,Owned,Married,Business,1
+22,469654,427282,747,8,4,0,1,90.98,Postgraduate,Salaried,Rented,Married,Personal,1
+25,674497,138777,687,0,3,2,4,20.57,High School,Self-Employed,Mortgaged,Single,Business,0
+23,564501,455912,671,12,0,4,3,80.76,Graduate,Salaried,Mortgaged,Single,Personal,1
+23,975027,180623,682,16,0,1,0,18.52,High School,Salaried,Mortgaged,Married,Personal,0
+54,761448,336336,683,16,3,4,5,44.17,Diploma,Salaried,Owned,Married,Business,1
+53,361403,336154,685,11,4,3,1,93.01,High School,Self-Employed,Rented,Single,Vehicle,1
+53,797670,367917,677,13,0,1,6,46.12,High School,Unemployed,Owned,Divorced,Vehicle,1
+23,479577,347174,708,10,1,0,5,72.39,Diploma,Salaried,Mortgaged,Single,Personal,0
+24,523061,181867,743,8,2,0,1,34.77,Graduate,Salaried,Owned,Married,Home,0
+31,719040,111019,604,11,0,1,4,15.44,High School,Business,Owned,Divorced,Personal,1
+43,541816,422129,616,18,1,1,2,77.91,Diploma,Salaried,Owned,Divorced,Vehicle,0
+34,846428,326017,568,5,0,3,4,38.52,High School,Unemployed,Owned,Married,Business,1
+40,479608,460913,751,9,2,2,3,95.0,Graduate,Self-Employed,Owned,Single,Vehicle,1
+27,513832,293737,708,12,3,2,2,57.17,Diploma,Salaried,Owned,Single,Personal,1
+49,505598,103277,725,11,2,3,4,20.43,Graduate,Self-Employed,Mortgaged,Single,Home,1
+33,525559,435258,590,0,1,3,1,82.82,Graduate,Salaried,Rented,Married,Vehicle,1
+23,891822,248148,815,5,2,3,6,27.82,Graduate,Business,Owned,Single,Personal,0
+49,788335,347880,647,12,2,4,6,44.13,Postgraduate,Salaried,Rented,Married,Vehicle,1
+56,1026188,209356,702,13,0,1,1,20.4,Postgraduate,Business,Rented,Single,Vehicle,0
+21,1148882,530202,750,14,0,4,5,46.15,Postgraduate,Business,Rented,Married,Personal,1
+38,423242,177281,621,19,0,2,6,41.89,Diploma,Business,Owned,Single,Personal,1
+53,665492,252760,652,13,4,0,0,37.98,Postgraduate,Business,Rented,Married,Home,1
+48,391236,315043,703,11,3,0,5,80.53,Postgraduate,Salaried,Owned,Married,Business,1
+54,478927,147094,850,6,0,0,6,30.71,Diploma,Self-Employed,Owned,Divorced,Vehicle,0
+37,511382,346273,711,7,1,4,1,67.71,Diploma,Business,Rented,Divorced,Home,0
+35,417426,525667,802,16,2,0,4,95.0,Graduate,Salaried,Rented,Married,Business,1
+48,418585,231335,774,9,0,4,5,55.27,Graduate,Salaried,Rented,Single,Home,0
+26,618257,355320,716,14,4,3,2,57.47,High School,Salaried,Owned,Divorced,Education,1
+30,382322,50000,621,2,4,2,1,13.08,Diploma,Salaried,Rented,Divorced,Vehicle,1
+44,835268,294550,764,2,1,4,2,35.26,High School,Business,Rented,Divorced,Personal,0
+47,448094,256174,585,4,0,4,2,57.17,Graduate,Salaried,Owned,Married,Business,1
+25,1268105,185410,802,3,1,4,5,14.62,High School,Self-Employed,Owned,Single,Home,0
+40,550695,451403,704,12,2,2,2,81.97,High School,Unemployed,Owned,Married,Personal,1
+35,665844,254326,504,12,4,1,2,38.2,High School,Salaried,Owned,Single,Personal,1
+40,365025,275153,666,11,1,0,6,75.38,Diploma,Business,Owned,Single,Vehicle,0
+58,1025340,247193,736,5,1,4,4,24.11,High School,Salaried,Owned,Single,Personal,1
+23,896290,50000,673,11,1,4,6,5.58,High School,Salaried,Rented,Married,Vehicle,1
+59,715321,141522,740,2,0,2,4,19.78,High School,Salaried,Rented,Single,Vehicle,0
+38,353703,434553,630,9,0,0,6,95.0,High School,Salaried,Rented,Married,Vehicle,1
+51,696347,50000,599,3,2,4,1,7.18,High School,Salaried,Rented,Married,Home,1
+37,403285,192716,685,1,3,1,6,47.79,Postgraduate,Salaried,Owned,Married,Business,1
+33,971718,244039,692,3,0,2,6,25.11,High School,Salaried,Mortgaged,Single,Business,1
+51,828023,544107,666,2,1,3,0,65.71,High School,Salaried,Rented,Divorced,Personal,1
+47,670997,407605,776,9,4,0,2,60.75,Postgraduate,Self-Employed,Rented,Single,Vehicle,0
+26,180000,221996,630,10,4,0,2,95.0,Graduate,Salaried,Owned,Married,Home,1
+48,433648,482632,712,12,3,0,2,95.0,High School,Business,Rented,Married,Vehicle,1
+50,801307,196328,695,8,2,4,5,24.5,High School,Unemployed,Rented,Single,Home,1
+36,916834,441274,581,3,2,4,4,48.13,Graduate,Business,Rented,Married,Personal,1
+57,894017,109757,598,0,1,2,1,12.28,Graduate,Self-Employed,Rented,Single,Business,1
+45,299757,450256,691,14,1,2,4,95.0,Graduate,Self-Employed,Mortgaged,Married,Personal,1
+34,716342,243141,829,19,1,2,6,33.94,Diploma,Self-Employed,Mortgaged,Single,Business,1
+21,873413,156009,731,5,3,1,3,17.86,Diploma,Unemployed,Rented,Divorced,Vehicle,0
+47,285166,269600,569,4,3,2,6,94.54,High School,Unemployed,Mortgaged,Married,Home,1
+29,648261,338828,472,6,3,1,4,52.27,Postgraduate,Salaried,Mortgaged,Single,Education,1
+50,710245,230735,741,4,3,3,6,32.49,High School,Self-Employed,Owned,Married,Personal,1
+41,583832,377553,683,4,0,1,6,64.67,High School,Business,Rented,Single,Vehicle,1
+39,242524,218381,770,9,3,3,0,90.04,Diploma,Salaried,Owned,Divorced,Home,0
+27,578346,386852,628,15,4,4,5,66.89,Graduate,Self-Employed,Owned,Married,Business,1
+48,577993,361911,715,14,3,1,1,62.62,Graduate,Self-Employed,Owned,Married,Home,0
+27,617424,291471,749,19,2,0,5,47.21,High School,Business,Rented,Married,Education,0
+37,526036,238206,659,7,1,2,5,45.28,Graduate,Salaried,Owned,Divorced,Home,1
+53,552537,321216,660,9,3,0,1,58.13,High School,Salaried,Owned,Married,Education,1
+56,641265,377036,692,7,2,1,0,58.8,High School,Salaried,Owned,Married,Vehicle,1
+59,747340,588652,728,0,1,3,2,78.77,Graduate,Self-Employed,Rented,Single,Personal,0
+58,583026,431519,689,7,2,2,2,74.01,Postgraduate,Unemployed,Mortgaged,Single,Business,1
+42,559877,436639,758,5,0,2,3,77.99,High School,Business,Mortgaged,Married,Home,1
+28,670318,732392,658,9,4,3,0,95.0,Diploma,Salaried,Rented,Married,Personal,1
+53,227398,372234,597,3,3,0,0,95.0,Postgraduate,Salaried,Owned,Married,Personal,1
+52,754948,367850,828,14,1,2,3,48.73,Graduate,Business,Mortgaged,Married,Business,0
+59,649876,398562,648,16,3,0,5,61.33,High School,Business,Owned,Married,Personal,1
+46,658733,158745,650,19,0,2,2,24.1,Postgraduate,Self-Employed,Mortgaged,Married,Personal,1
+26,861362,237854,685,1,1,1,2,27.61,High School,Salaried,Rented,Married,Home,0
+40,220381,229136,695,2,3,4,1,95.0,High School,Salaried,Rented,Single,Vehicle,1
+38,215757,390666,663,19,0,1,1,95.0,Graduate,Business,Owned,Married,Vehicle,1
+53,710237,275616,689,16,3,1,2,38.81,High School,Self-Employed,Owned,Single,Education,1
+36,648434,319351,687,11,4,0,1,49.25,Postgraduate,Salaried,Rented,Married,Personal,0
+33,687439,452244,702,6,2,0,2,65.79,Graduate,Unemployed,Owned,Divorced,Business,1
+24,548332,420841,525,10,1,1,1,76.75,High School,Self-Employed,Mortgaged,Married,Vehicle,1
+53,796158,277359,822,10,3,1,4,34.84,Diploma,Unemployed,Rented,Single,Personal,0
+50,855181,206201,680,16,1,3,2,24.11,High School,Salaried,Rented,Married,Business,0
+22,756476,458938,731,10,3,4,5,60.67,Graduate,Salaried,Owned,Single,Vehicle,0
+37,592618,408345,594,0,3,4,4,68.91,High School,Unemployed,Rented,Single,Personal,1
+39,186308,75124,657,13,0,4,4,40.32,Graduate,Unemployed,Owned,Married,Vehicle,1
+39,819232,256158,643,15,0,4,4,31.27,High School,Unemployed,Rented,Married,Education,1
+56,918780,323172,793,5,0,2,6,35.17,High School,Business,Rented,Single,Education,0
+26,791803,409036,649,2,0,1,1,51.66,Graduate,Salaried,Rented,Divorced,Personal,1
+32,456479,427414,743,2,1,3,6,93.63,Graduate,Salaried,Rented,Married,Vehicle,1
+28,798235,339747,644,16,0,1,1,42.56,Diploma,Salaried,Owned,Divorced,Vehicle,1
+30,839317,381935,658,8,4,3,0,45.51,Graduate,Unemployed,Mortgaged,Married,Business,1
+56,992940,308979,673,10,4,4,5,31.12,Diploma,Salaried,Rented,Divorced,Personal,0
+57,457256,205661,780,19,0,0,6,44.98,High School,Business,Rented,Married,Home,0
+22,600180,263423,558,1,1,3,0,43.89,High School,Unemployed,Rented,Divorced,Home,1
+45,814400,302659,598,4,3,4,4,37.16,Graduate,Unemployed,Mortgaged,Married,Personal,1
+30,662630,295145,554,16,3,2,3,44.54,Graduate,Unemployed,Owned,Single,Personal,1
+28,404188,50000,614,10,2,1,1,12.37,Graduate,Self-Employed,Owned,Single,Vehicle,1
+32,741216,244352,633,0,4,1,3,32.97,High School,Self-Employed,Rented,Married,Vehicle,1
+28,777306,307869,577,14,3,0,4,39.61,Diploma,Unemployed,Owned,Single,Education,1
+40,669352,260608,639,2,3,1,4,38.93,Diploma,Salaried,Rented,Divorced,Business,1
+59,698309,265445,549,15,2,3,3,38.01,Graduate,Salaried,Owned,Single,Business,1
+43,593085,368319,619,15,2,2,6,62.1,Graduate,Unemployed,Owned,Married,Personal,1
+49,975221,148946,774,16,1,1,1,15.27,Graduate,Self-Employed,Owned,Married,Home,0
+40,451848,72074,718,9,2,2,4,15.95,Diploma,Self-Employed,Mortgaged,Married,Personal,1
+21,520789,251256,703,5,4,4,2,48.25,Graduate,Salaried,Rented,Divorced,Home,0
+24,652417,406976,620,17,1,0,6,62.38,Graduate,Self-Employed,Owned,Married,Personal,1
+31,843370,536257,582,11,0,0,1,63.59,High School,Unemployed,Owned,Married,Home,1
+30,320578,409498,610,12,2,4,6,95.0,High School,Self-Employed,Owned,Single,Home,1
+53,361735,94443,687,2,3,3,4,26.11,Graduate,Salaried,Owned,Married,Home,1
+53,201700,267469,751,12,4,2,1,95.0,High School,Self-Employed,Rented,Married,Vehicle,1
+54,657193,335929,753,11,2,4,5,51.12,Graduate,Business,Owned,Single,Education,0
+45,403973,324863,734,5,3,2,1,80.42,Graduate,Unemployed,Owned,Single,Business,1
+42,565399,375503,638,15,1,2,1,66.41,Graduate,Salaried,Owned,Married,Personal,1
+46,795503,171613,692,2,2,1,2,21.57,Postgraduate,Self-Employed,Rented,Single,Education,1
+36,508861,309092,668,14,2,4,4,60.74,Diploma,Salaried,Rented,Married,Education,1
+47,700882,358845,676,19,1,3,2,51.2,High School,Salaried,Rented,Single,Vehicle,1
+51,584146,415594,833,11,3,1,3,71.15,High School,Salaried,Rented,Divorced,Personal,1
+50,797865,187199,567,2,4,3,3,23.46,Graduate,Self-Employed,Mortgaged,Divorced,Home,1
+44,754528,251678,674,11,1,3,1,33.36,High School,Self-Employed,Rented,Divorced,Vehicle,1
+23,497775,50000,775,10,0,0,1,10.04,Diploma,Salaried,Mortgaged,Married,Home,0
+49,612897,212995,587,11,4,0,2,34.75,Graduate,Salaried,Rented,Single,Home,1
+35,879624,226582,645,5,4,2,1,25.76,Diploma,Salaried,Owned,Married,Business,1
+50,736543,157258,653,12,4,3,6,21.35,High School,Salaried,Rented,Married,Home,1
+42,342668,323186,674,5,1,3,2,94.31,High School,Business,Rented,Divorced,Home,1
+55,794236,292168,578,11,3,1,2,36.79,Graduate,Salaried,Rented,Single,Personal,1
+34,411386,50000,732,11,3,4,4,12.15,High School,Salaried,Owned,Single,Home,0
+57,960753,330171,737,12,3,2,5,34.37,Postgraduate,Unemployed,Rented,Divorced,Business,1
+53,875302,170035,726,15,4,1,4,19.43,Diploma,Salaried,Mortgaged,Married,Vehicle,1
+33,713775,367996,629,17,4,0,3,51.56,Diploma,Business,Owned,Single,Personal,1
+39,684591,120541,696,15,2,4,6,17.61,Postgraduate,Self-Employed,Owned,Married,Business,1
+41,604013,304201,627,15,0,3,6,50.36,Diploma,Business,Owned,Single,Home,1
+50,799275,260357,667,17,0,2,1,32.57,Diploma,Self-Employed,Rented,Married,Personal,1
+47,568429,342434,841,4,4,1,1,60.24,High School,Salaried,Mortgaged,Single,Education,0
+54,701825,317458,697,5,4,0,2,45.23,Graduate,Business,Rented,Single,Vehicle,1
+35,841826,264277,607,10,0,0,5,31.39,Graduate,Business,Mortgaged,Single,Business,1
+40,526403,84922,703,9,1,0,6,16.13,Graduate,Salaried,Rented,Single,Business,0
+37,514438,93191,595,14,1,2,4,18.12,Graduate,Business,Owned,Married,Vehicle,1
+56,387240,218256,606,0,1,0,4,56.36,Diploma,Self-Employed,Owned,Single,Vehicle,1
+32,415816,298841,617,2,3,0,1,71.87,Graduate,Unemployed,Owned,Married,Home,1
+43,247753,214845,659,14,2,1,4,86.72,High School,Business,Rented,Married,Business,1
+25,810562,387530,756,16,2,3,1,47.81,High School,Salaried,Owned,Married,Personal,0
+54,1047961,260909,730,6,2,2,3,24.9,High School,Business,Owned,Married,Education,0
+35,963572,164898,727,6,3,0,1,17.11,Graduate,Unemployed,Mortgaged,Single,Personal,1
+34,292261,261067,613,11,3,3,0,89.33,High School,Business,Rented,Single,Home,1
+43,809468,331620,652,9,0,2,6,40.97,High School,Salaried,Owned,Married,Personal,1
+40,962863,345484,709,3,0,0,6,35.88,High School,Business,Rented,Married,Personal,0
+54,549502,562973,646,10,1,3,4,95.0,Graduate,Self-Employed,Rented,Divorced,Business,1
+41,672318,206353,671,16,2,4,4,30.69,High School,Salaried,Mortgaged,Divorced,Home,1
+41,208264,289713,721,14,4,2,1,95.0,Graduate,Business,Rented,Married,Vehicle,1
+25,708682,359657,666,16,4,0,4,50.75,High School,Self-Employed,Owned,Divorced,Home,1
+21,416017,296721,706,12,3,1,5,71.32,Postgraduate,Business,Owned,Married,Business,1
+36,693920,229913,801,17,0,2,3,33.13,Graduate,Self-Employed,Owned,Married,Personal,1
+59,306535,83104,678,4,0,4,1,27.11,Diploma,Salaried,Rented,Divorced,Vehicle,0
+56,769429,228483,773,0,2,4,2,29.7,Graduate,Unemployed,Rented,Married,Home,1
+45,875393,149682,729,2,2,4,5,17.1,Diploma,Self-Employed,Rented,Single,Vehicle,1
+45,477700,58275,587,19,3,4,1,12.2,Diploma,Self-Employed,Rented,Single,Business,1
+36,399877,188605,613,12,0,2,6,47.17,Postgraduate,Salaried,Owned,Single,Business,1
+27,180000,153407,632,4,4,3,5,85.23,Graduate,Salaried,Owned,Single,Vehicle,1
+21,591389,381730,630,17,2,3,6,64.55,Graduate,Self-Employed,Owned,Married,Personal,1
+34,522049,384153,684,6,2,3,3,73.59,Diploma,Salaried,Owned,Married,Home,1
+33,308776,173457,733,11,0,3,1,56.18,High School,Unemployed,Rented,Single,Business,1
+28,749664,263568,778,4,4,0,0,35.16,Graduate,Unemployed,Mortgaged,Married,Education,0
+31,551007,50000,712,1,2,4,3,9.07,Postgraduate,Business,Owned,Single,Home,1
+21,413338,230792,659,5,1,0,2,55.84,Graduate,Salaried,Rented,Married,Business,1
+44,527994,355857,544,4,1,2,0,67.4,High School,Business,Owned,Single,Business,1
+57,885687,415491,695,11,1,2,6,46.91,Postgraduate,Salaried,Rented,Married,Education,0
+47,782646,200173,692,0,0,4,6,25.58,Graduate,Business,Owned,Married,Personal,1
+38,621394,447260,703,4,4,0,2,71.98,Diploma,Self-Employed,Rented,Married,Education,1
+37,786203,87803,837,11,4,2,4,11.17,Graduate,Unemployed,Owned,Married,Vehicle,1
+32,394599,125332,777,7,4,1,2,31.76,High School,Salaried,Owned,Single,Personal,0
+26,657121,399353,745,12,1,0,3,60.77,High School,Salaried,Rented,Married,Personal,1
+44,682411,533957,623,13,2,1,4,78.25,Diploma,Unemployed,Owned,Single,Home,1
+43,546636,369080,654,19,2,2,2,67.52,Postgraduate,Self-Employed,Rented,Married,Personal,1
+21,745801,294352,683,16,2,4,5,39.47,Diploma,Business,Owned,Married,Personal,1
+37,478305,50000,636,4,2,1,1,10.45,Graduate,Unemployed,Mortgaged,Married,Home,1
+31,762161,50000,725,13,2,4,4,6.56,Diploma,Self-Employed,Owned,Divorced,Education,1
+27,771409,318117,715,12,3,3,6,41.24,Graduate,Salaried,Rented,Single,Home,1
+48,180000,249871,614,11,0,4,5,95.0,High School,Self-Employed,Mortgaged,Married,Business,1
+41,911867,145183,774,15,0,4,0,15.92,Graduate,Business,Rented,Single,Personal,0
+45,180000,309175,697,2,4,3,0,95.0,Diploma,Unemployed,Owned,Married,Vehicle,1
+48,514469,316118,569,7,4,3,4,61.45,Diploma,Salaried,Rented,Married,Education,1
+59,875577,432218,686,16,4,0,6,49.36,Postgraduate,Business,Owned,Married,Vehicle,1
+52,580197,319124,710,17,1,3,5,55.0,High School,Salaried,Rented,Married,Education,1
+45,327439,471975,758,0,2,0,6,95.0,High School,Self-Employed,Rented,Married,Personal,1
+55,409378,301119,666,9,0,3,1,73.56,Graduate,Business,Rented,Single,Home,0
+39,875919,283853,748,5,1,3,3,32.41,High School,Business,Mortgaged,Divorced,Business,0
+59,227269,449004,703,3,3,3,5,95.0,High School,Salaried,Owned,Divorced,Vehicle,1
+50,898378,163018,598,1,1,3,4,18.15,High School,Salaried,Owned,Married,Business,1
+46,637878,694023,591,10,2,1,5,95.0,Graduate,Salaried,Owned,Single,Business,1
+56,387673,352536,769,13,0,1,1,90.94,Diploma,Salaried,Rented,Single,Business,1
+41,521715,353316,774,10,2,2,3,67.72,Graduate,Salaried,Owned,Married,Vehicle,0
+49,426211,373513,713,7,3,2,3,87.64,High School,Business,Rented,Divorced,Business,1
+32,840570,562799,795,15,2,1,6,66.95,Graduate,Salaried,Rented,Married,Business,1
+58,811134,410951,764,13,2,2,1,50.66,Graduate,Salaried,Mortgaged,Single,Business,0
+45,271785,75292,738,18,4,2,2,27.7,Graduate,Business,Owned,Single,Business,0
+51,561210,496486,626,6,1,1,0,88.47,Postgraduate,Salaried,Owned,Married,Personal,1
+38,460099,252274,811,4,1,3,1,54.83,High School,Salaried,Owned,Single,Vehicle,0
+54,934572,315002,728,9,3,1,6,33.71,High School,Unemployed,Rented,Single,Home,1
+23,352978,120904,663,10,2,1,5,34.25,High School,Salaried,Owned,Single,Personal,1
+25,1002930,373668,643,9,4,2,1,37.26,High School,Salaried,Owned,Single,Home,0
+40,642675,208808,708,16,0,0,4,32.49,Graduate,Self-Employed,Owned,Single,Personal,1
+49,394374,314024,573,0,0,3,4,79.63,Graduate,Salaried,Rented,Married,Business,1
+52,501000,260226,739,10,1,3,6,51.94,High School,Salaried,Mortgaged,Single,Personal,1
+38,473644,569502,623,8,2,4,2,95.0,High School,Salaried,Owned,Married,Business,1
+46,369584,577516,716,4,4,1,6,95.0,High School,Salaried,Owned,Married,Personal,1
+42,670862,306512,653,12,2,2,2,45.69,Graduate,Business,Rented,Divorced,Business,1
+58,379859,308957,671,16,2,2,5,81.33,Diploma,Salaried,Owned,Married,Education,1
+46,180000,247718,637,10,0,3,2,95.0,Graduate,Salaried,Mortgaged,Married,Vehicle,1
+37,566471,454841,679,1,2,3,4,80.29,High School,Salaried,Rented,Married,Home,1
+58,253372,253951,822,1,2,4,2,95.0,Graduate,Unemployed,Rented,Married,Vehicle,0
+25,484525,241013,787,8,2,4,5,49.74,High School,Salaried,Mortgaged,Married,Personal,1
+59,449997,437003,715,13,3,0,4,95.0,Postgraduate,Business,Rented,Married,Vehicle,1
+27,458332,224638,688,6,2,1,2,49.01,High School,Salaried,Owned,Married,Personal,1
+32,1090212,294714,749,6,0,3,6,27.03,Graduate,Unemployed,Rented,Married,Education,1
+53,662411,78616,769,17,0,2,4,11.87,High School,Salaried,Owned,Single,Vehicle,0
+49,703982,398587,632,0,0,2,3,56.62,Graduate,Salaried,Rented,Single,Personal,1
+58,259192,571721,685,1,3,0,0,95.0,High School,Self-Employed,Mortgaged,Single,Home,1
+50,506128,400972,562,3,4,2,6,79.22,Graduate,Salaried,Owned,Married,Business,1
+45,697367,504652,769,19,4,3,5,72.37,Graduate,Business,Rented,Married,Education,1
+34,424604,181546,835,9,1,0,4,42.76,High School,Self-Employed,Owned,Married,Home,0
+21,849774,333085,696,3,0,2,5,39.2,Graduate,Self-Employed,Owned,Single,Home,1
+25,385407,167958,541,6,3,4,4,43.58,Graduate,Salaried,Rented,Single,Business,1
+32,586999,268113,733,19,0,2,1,45.68,Diploma,Business,Rented,Single,Home,1
+22,521069,408110,627,13,3,4,1,78.32,Diploma,Salaried,Rented,Married,Personal,1
+40,686151,314255,644,4,1,1,0,45.8,Diploma,Unemployed,Owned,Single,Business,1
+51,509092,102230,734,4,4,0,0,20.08,Graduate,Business,Owned,Single,Home,0
+58,590403,115896,708,1,3,3,5,19.63,High School,Self-Employed,Rented,Single,Vehicle,1
+40,598051,106637,656,15,3,1,5,17.83,High School,Business,Rented,Married,Home,1
+55,488435,368803,645,2,2,0,1,75.51,Graduate,Self-Employed,Rented,Single,Personal,1
+59,756721,588945,699,5,4,0,4,77.83,High School,Self-Employed,Rented,Married,Education,1
+54,702445,490744,661,6,2,4,0,69.86,Graduate,Salaried,Mortgaged,Married,Home,0
+39,630505,50000,612,12,3,3,2,7.93,Diploma,Self-Employed,Rented,Divorced,Education,1
+33,555299,498951,667,12,1,1,5,89.85,High School,Salaried,Owned,Married,Education,1
+59,825240,431096,714,15,2,2,5,52.24,Postgraduate,Salaried,Rented,Single,Business,0
+30,598116,83658,678,5,4,1,6,13.99,Postgraduate,Business,Rented,Single,Home,1
+37,582527,257552,591,7,1,0,2,44.21,Graduate,Salaried,Mortgaged,Married,Home,1
+23,673032,453373,759,7,0,4,6,67.36,Graduate,Self-Employed,Rented,Single,Vehicle,1
+51,1023249,377061,498,0,1,4,5,36.85,High School,Salaried,Rented,Divorced,Business,1
+46,355122,116727,659,14,1,1,2,32.87,High School,Salaried,Owned,Married,Business,0
+24,819369,385504,647,10,2,1,2,47.05,High School,Business,Rented,Single,Vehicle,1
+29,233502,50000,700,9,0,4,0,21.41,Graduate,Salaried,Mortgaged,Single,Home,0
+42,697800,268805,729,19,0,2,6,38.52,High School,Self-Employed,Mortgaged,Divorced,Business,0
+42,996518,459314,769,3,1,1,1,46.09,Postgraduate,Self-Employed,Owned,Divorced,Home,1
+52,757507,302575,640,19,2,1,1,39.94,Graduate,Business,Owned,Married,Business,1
+31,687538,230149,731,13,0,2,2,33.47,Diploma,Salaried,Rented,Single,Education,0
+57,526701,424508,704,4,1,2,0,80.6,Postgraduate,Business,Rented,Married,Vehicle,0
+38,656830,436465,570,13,1,0,5,66.45,High School,Salaried,Mortgaged,Single,Education,1
+53,594546,483406,823,15,0,2,4,81.31,Diploma,Salaried,Owned,Single,Home,0
+30,477085,422408,589,7,1,2,1,88.54,Postgraduate,Salaried,Mortgaged,Married,Business,1
+22,586227,451392,719,6,1,1,1,77.0,Diploma,Salaried,Rented,Divorced,Home,1
+23,693644,402607,717,16,0,1,0,58.04,High School,Self-Employed,Owned,Married,Education,0
+35,481212,337174,709,3,3,2,6,70.07,High School,Salaried,Owned,Married,Education,1
+58,472618,312531,655,0,0,1,3,66.13,Graduate,Salaried,Rented,Single,Home,1
+22,350746,266784,748,13,2,4,4,76.06,Graduate,Self-Employed,Owned,Single,Business,1
+35,735960,130268,581,18,3,2,1,17.7,Postgraduate,Self-Employed,Rented,Single,Personal,1
+25,769971,166256,685,10,4,2,1,21.59,Graduate,Salaried,Rented,Married,Personal,0
+57,700965,260518,651,2,2,1,3,37.17,Graduate,Salaried,Rented,Single,Home,1
+47,862338,333803,643,10,2,4,1,38.71,High School,Salaried,Owned,Married,Home,0
+50,669331,501714,720,5,3,0,4,74.96,High School,Self-Employed,Mortgaged,Single,Vehicle,1
+48,736242,294148,765,16,4,2,6,39.95,Graduate,Unemployed,Rented,Married,Personal,1
+46,716844,440487,666,12,1,0,2,61.45,High School,Self-Employed,Rented,Single,Education,1
+51,629861,451104,745,6,3,3,4,71.62,Diploma,Self-Employed,Rented,Single,Vehicle,1
+21,533219,267597,693,12,2,1,6,50.19,High School,Salaried,Rented,Married,Business,0
+54,1137114,383257,628,13,0,1,6,33.7,High School,Unemployed,Mortgaged,Married,Home,1
+49,550571,265906,672,13,3,0,0,48.3,High School,Salaried,Rented,Divorced,Education,0
+49,503507,485099,669,7,4,3,0,95.0,Graduate,Salaried,Rented,Single,Education,1
+36,745482,389018,641,11,0,1,6,52.18,Postgraduate,Salaried,Owned,Married,Business,1
+52,705408,133332,720,0,0,1,6,18.9,Diploma,Salaried,Owned,Divorced,Business,1
+35,340946,322613,706,8,4,4,2,94.62,High School,Business,Rented,Single,Vehicle,1
+22,896989,530736,579,7,2,0,3,59.17,High School,Salaried,Owned,Married,Business,1
+56,629277,274628,574,10,1,2,4,43.64,Diploma,Salaried,Rented,Divorced,Education,1
+30,405595,362680,720,19,3,0,4,89.42,Graduate,Salaried,Mortgaged,Married,Home,1
+24,911533,376423,633,19,1,0,5,41.3,Graduate,Unemployed,Rented,Married,Personal,1
+45,787649,154873,711,9,1,0,2,19.66,High School,Business,Owned,Married,Personal,0
+30,371801,371499,745,12,1,0,6,95.0,Graduate,Unemployed,Rented,Married,Personal,1
+54,1040980,104863,601,2,2,4,0,10.07,High School,Business,Owned,Married,Business,1
+38,794935,212413,591,9,0,2,0,26.72,Diploma,Unemployed,Rented,Divorced,Vehicle,1
+21,647757,450601,807,13,1,4,6,69.56,High School,Salaried,Rented,Single,Education,1
+58,999848,349946,715,13,1,1,1,35.0,Graduate,Salaried,Rented,Married,Vehicle,0
+41,685046,257373,661,19,0,3,6,37.57,High School,Salaried,Rented,Married,Home,1
+31,643822,362505,625,9,3,0,2,56.31,Graduate,Salaried,Rented,Single,Education,1
+47,504734,291587,654,18,0,0,2,57.77,Diploma,Business,Owned,Married,Vehicle,1
+41,778007,301761,607,19,4,0,0,38.79,Graduate,Salaried,Owned,Married,Home,1
+22,754853,391955,752,11,0,4,6,51.92,Diploma,Salaried,Owned,Married,Personal,1
+50,653230,198169,636,1,1,3,2,30.34,Postgraduate,Self-Employed,Mortgaged,Married,Home,0
+36,476203,305647,767,7,0,3,1,64.18,Postgraduate,Salaried,Owned,Single,Education,1
+48,678585,256282,662,15,1,4,3,37.77,Postgraduate,Salaried,Owned,Divorced,Personal,1
+55,634644,78016,617,11,3,1,1,12.29,Graduate,Salaried,Owned,Married,Business,1
+44,356636,171136,660,18,0,3,5,47.99,Postgraduate,Self-Employed,Rented,Married,Home,1
+47,326201,519549,506,16,2,2,0,95.0,Diploma,Salaried,Owned,Single,Business,1
+30,774334,353861,682,1,3,2,3,45.7,Diploma,Salaried,Rented,Married,Personal,1
+30,180000,114698,678,17,2,3,2,63.72,Graduate,Salaried,Owned,Divorced,Personal,1
+37,695190,84350,748,7,0,2,0,12.13,High School,Business,Rented,Single,Vehicle,0
+54,544822,284297,558,16,3,0,0,52.18,Diploma,Salaried,Owned,Single,Home,0
+41,937814,518566,771,10,0,0,3,55.3,Diploma,Salaried,Rented,Married,Business,0
+34,541437,273854,747,9,0,2,2,50.58,Postgraduate,Unemployed,Owned,Married,Vehicle,1
+51,795087,482980,778,1,2,2,0,60.75,Graduate,Business,Rented,Married,Personal,1
+54,562679,349270,686,2,1,3,0,62.07,Diploma,Salaried,Mortgaged,Married,Business,1
+56,675025,365975,761,11,0,2,5,54.22,Postgraduate,Salaried,Owned,Divorced,Personal,1
+32,812104,112999,587,11,3,0,5,13.91,Postgraduate,Salaried,Mortgaged,Married,Personal,1
+48,548238,431253,740,11,2,1,4,78.66,High School,Business,Owned,Married,Business,1
+44,869242,253110,636,3,4,2,5,29.12,Graduate,Salaried,Rented,Married,Personal,1
+38,431386,420833,574,10,2,4,0,95.0,Diploma,Unemployed,Rented,Married,Business,1
+36,714810,186016,611,1,2,2,4,26.02,Graduate,Business,Owned,Single,Home,1
+25,852981,324787,690,2,4,3,5,38.08,High School,Self-Employed,Rented,Single,Personal,1
+31,795208,349280,632,9,0,3,1,43.92,Diploma,Salaried,Owned,Married,Business,1
+42,1071618,278435,716,12,1,1,3,25.98,Diploma,Business,Rented,Married,Personal,0
+55,482043,356636,563,13,3,4,5,73.98,Diploma,Business,Owned,Married,Vehicle,1
+54,346587,262704,541,19,1,3,4,75.8,Diploma,Business,Mortgaged,Married,Vehicle,1
+28,431246,209132,786,17,4,4,1,48.49,Graduate,Salaried,Owned,Married,Personal,0
+47,795297,524768,753,7,1,3,4,65.98,Diploma,Business,Mortgaged,Single,Home,0
+24,759543,446853,617,15,2,3,5,58.83,Diploma,Business,Owned,Married,Business,1
+47,672496,193479,690,1,4,0,0,28.77,High School,Unemployed,Rented,Married,Education,1
+34,402949,379582,761,17,1,2,3,94.2,Postgraduate,Self-Employed,Owned,Single,Home,1
+38,818711,196025,719,7,4,0,3,23.94,Graduate,Self-Employed,Owned,Married,Home,0
+48,380565,134144,700,15,0,3,2,35.25,High School,Salaried,Owned,Married,Personal,1
+37,904969,444733,767,19,1,3,0,49.14,High School,Business,Rented,Married,Home,0
+52,1278636,61426,639,14,2,2,0,4.8,Postgraduate,Unemployed,Owned,Married,Business,1
+41,730619,429760,692,18,2,1,5,58.82,Postgraduate,Self-Employed,Rented,Single,Business,1
+59,778284,264619,689,0,4,0,5,34.0,High School,Salaried,Mortgaged,Married,Business,1
+45,541571,270383,671,3,4,3,2,49.93,Graduate,Salaried,Owned,Married,Education,1
+32,251753,357365,663,12,3,3,6,95.0,Diploma,Self-Employed,Owned,Married,Home,1
+51,517402,381368,695,10,3,2,6,73.71,Graduate,Business,Owned,Single,Personal,1
+36,409563,184312,692,2,1,3,4,45.0,Graduate,Salaried,Owned,Divorced,Home,1
+41,331659,400482,617,14,4,3,4,95.0,Graduate,Salaried,Rented,Single,Vehicle,1
+26,1028919,315872,746,1,3,2,6,30.7,Diploma,Unemployed,Rented,Single,Personal,1
+25,710030,124152,622,19,0,0,4,17.49,Diploma,Self-Employed,Owned,Married,Vehicle,0
+43,733531,276218,675,3,4,4,6,37.66,Graduate,Salaried,Owned,Married,Vehicle,1
+28,582015,493379,669,8,1,2,6,84.77,Graduate,Salaried,Rented,Married,Personal,1
+59,611968,534723,715,16,2,3,1,87.38,Postgraduate,Salaried,Owned,Single,Home,1
+54,862201,400429,542,10,2,4,4,46.44,Graduate,Salaried,Rented,Married,Home,1
+48,642886,133352,752,14,4,1,5,20.74,High School,Self-Employed,Mortgaged,Married,Education,1
+49,766753,368685,643,14,1,3,5,48.08,Graduate,Self-Employed,Owned,Divorced,Personal,1
+44,606879,419121,775,18,1,0,2,69.06,High School,Self-Employed,Rented,Divorced,Personal,0
+23,574726,401599,657,9,0,4,6,69.88,Postgraduate,Self-Employed,Rented,Married,Personal,1
+36,340479,409894,687,19,1,0,3,95.0,Postgraduate,Salaried,Rented,Single,Personal,1
+40,214895,350857,824,10,0,2,2,95.0,Postgraduate,Salaried,Rented,Single,Home,0
+56,592456,289862,671,17,2,1,1,48.93,Graduate,Salaried,Rented,Divorced,Business,1
+29,662429,214829,777,14,4,0,2,32.43,Graduate,Salaried,Rented,Married,Home,1
+40,367051,50000,693,2,2,2,6,13.62,Graduate,Business,Rented,Married,Personal,0
+34,642416,347550,719,12,4,4,5,54.1,Graduate,Salaried,Rented,Divorced,Personal,1
+26,661826,326047,695,17,4,0,5,49.26,Diploma,Self-Employed,Rented,Married,Vehicle,1
+25,180000,378061,749,2,0,1,6,95.0,Graduate,Salaried,Rented,Married,Personal,1
+35,448673,112744,642,16,2,0,1,25.13,Graduate,Salaried,Owned,Divorced,Business,1
+24,739598,390302,621,2,2,0,4,52.77,Graduate,Salaried,Mortgaged,Single,Home,1
+23,735153,587636,645,17,1,1,2,79.93,High School,Self-Employed,Owned,Married,Business,1
+34,396192,310983,697,15,4,2,5,78.49,Diploma,Self-Employed,Owned,Divorced,Personal,1
+28,684859,291367,675,3,1,3,2,42.54,High School,Business,Owned,Single,Vehicle,0
+42,874930,343260,740,14,0,3,5,39.23,High School,Salaried,Owned,Single,Home,1
+21,820956,584527,781,2,2,3,5,71.2,Diploma,Self-Employed,Rented,Married,Personal,1
+32,629037,156689,622,11,1,3,5,24.91,Postgraduate,Business,Owned,Married,Education,1
+38,547045,328449,639,18,1,1,6,60.04,Diploma,Salaried,Rented,Single,Education,1
+58,511544,188048,589,4,2,4,5,36.76,High School,Salaried,Rented,Single,Business,1
+45,752920,223419,832,3,3,0,2,29.67,Graduate,Salaried,Owned,Single,Business,0
+55,692923,293057,711,8,1,3,3,42.29,Postgraduate,Salaried,Owned,Single,Vehicle,0
+34,788469,488625,724,7,1,0,3,61.97,Graduate,Business,Rented,Married,Home,1
+38,679012,552139,596,0,0,3,0,81.31,Graduate,Salaried,Rented,Married,Personal,1
+37,830128,362740,690,9,1,0,4,43.7,Diploma,Self-Employed,Owned,Married,Education,1
+55,670810,247277,726,5,2,1,3,36.86,Graduate,Business,Owned,Single,Business,0
+58,822632,648983,672,2,3,1,2,78.89,High School,Salaried,Owned,Married,Personal,1
+58,841581,240142,765,5,1,3,0,28.53,Diploma,Self-Employed,Owned,Single,Home,0
+50,473004,220041,850,0,0,0,3,46.52,Postgraduate,Salaried,Owned,Married,Personal,0
+40,252208,51508,624,18,2,1,4,20.42,Postgraduate,Self-Employed,Mortgaged,Divorced,Personal,1
+42,989568,495453,618,19,3,1,0,50.07,High School,Salaried,Owned,Married,Personal,1
+59,706465,435554,629,7,0,3,4,61.65,Diploma,Salaried,Owned,Divorced,Vehicle,1
+32,272813,638493,802,17,2,4,1,95.0,Graduate,Salaried,Mortgaged,Single,Vehicle,0
+34,492960,105467,763,9,0,3,1,21.39,Graduate,Business,Rented,Single,Business,0
+55,819812,504144,681,18,2,2,2,61.5,High School,Self-Employed,Rented,Married,Personal,0
+36,588471,309819,693,3,3,1,2,52.65,Diploma,Business,Rented,Single,Personal,0
+30,537346,412854,633,5,3,4,6,76.83,Graduate,Salaried,Mortgaged,Divorced,Education,1
+42,958194,69311,752,14,3,0,0,7.23,Postgraduate,Unemployed,Owned,Single,Education,0
+33,419597,505531,663,4,3,0,2,95.0,Diploma,Salaried,Owned,Married,Home,1
+55,474406,410112,672,16,1,1,5,86.45,Graduate,Business,Mortgaged,Single,Business,1
+56,696505,294553,733,8,4,1,1,42.29,Graduate,Business,Rented,Single,Personal,0
+32,735900,390316,677,8,1,2,6,53.04,High School,Self-Employed,Mortgaged,Married,Personal,1
+41,759195,192831,674,9,1,4,5,25.4,Graduate,Salaried,Owned,Divorced,Vehicle,1
+59,850472,218878,691,15,3,3,6,25.74,Graduate,Business,Mortgaged,Married,Personal,1
+49,693687,235118,746,0,1,1,6,33.89,High School,Business,Owned,Married,Home,1
+29,757664,50000,805,15,0,1,0,6.6,High School,Salaried,Rented,Single,Education,0
+44,592974,420646,731,15,3,3,3,70.94,Postgraduate,Business,Mortgaged,Single,Business,1
+45,663794,466823,746,16,3,1,5,70.33,Postgraduate,Salaried,Owned,Single,Education,1
+46,673658,201812,676,19,2,4,0,29.96,High School,Self-Employed,Owned,Married,Personal,0
+21,697322,348748,640,15,0,2,3,50.01,High School,Self-Employed,Rented,Single,Business,1
+32,819959,262824,736,10,3,2,4,32.05,Diploma,Business,Mortgaged,Single,Home,1
+54,772132,345958,702,9,0,4,5,44.81,High School,Salaried,Owned,Married,Home,1
+30,659728,212139,590,7,2,1,2,32.16,High School,Salaried,Mortgaged,Married,Education,1
+32,471992,176320,667,16,2,2,6,37.36,Diploma,Self-Employed,Owned,Single,Business,1
+33,664888,447290,684,7,3,2,4,67.27,Diploma,Salaried,Owned,Single,Education,1
+27,643836,291058,654,11,4,1,0,45.21,Graduate,Self-Employed,Owned,Married,Vehicle,0
+27,692500,583095,794,1,0,0,1,84.2,Diploma,Salaried,Mortgaged,Married,Home,0
+34,1135436,306483,724,6,0,1,6,26.99,Diploma,Business,Owned,Single,Personal,0
+55,534770,170349,786,5,2,0,0,31.85,Graduate,Salaried,Rented,Married,Education,1
+21,742904,471772,708,8,4,3,0,63.5,Graduate,Salaried,Owned,Single,Education,0
+32,885062,388312,696,10,0,0,2,43.87,High School,Salaried,Mortgaged,Divorced,Education,1
+23,671560,401762,624,14,2,1,6,59.83,Postgraduate,Salaried,Rented,Divorced,Vehicle,1
+42,1164326,466684,691,8,2,4,4,40.08,High School,Salaried,Owned,Single,Vehicle,1
+30,566831,208609,691,3,1,2,1,36.8,High School,Salaried,Owned,Married,Home,0
+51,721300,282185,594,10,3,3,2,39.12,Graduate,Self-Employed,Owned,Single,Business,1
+43,474263,275997,652,1,1,3,6,58.19,Graduate,Salaried,Owned,Married,Vehicle,1
+51,572665,119295,667,16,2,1,1,20.83,Diploma,Self-Employed,Rented,Married,Vehicle,1
+45,704765,263097,719,15,4,3,4,37.33,Graduate,Business,Rented,Married,Personal,1
+38,836187,487093,722,4,1,1,3,58.25,High School,Self-Employed,Rented,Single,Vehicle,1
+54,720201,333227,649,5,0,3,5,46.27,Graduate,Salaried,Rented,Single,Education,1
+39,927005,111551,723,0,4,3,5,12.03,Postgraduate,Salaried,Rented,Married,Vehicle,0
+58,629108,82182,677,7,1,4,5,13.06,High School,Salaried,Owned,Married,Vehicle,1
+59,576923,533069,489,0,3,4,0,92.4,Graduate,Self-Employed,Owned,Married,Home,1
+43,1244877,287355,656,18,3,0,3,23.08,High School,Self-Employed,Owned,Married,Personal,1
+47,736732,209363,766,2,2,1,4,28.42,High School,Salaried,Rented,Married,Education,1
+30,491714,261641,572,13,0,2,2,53.21,Graduate,Salaried,Owned,Married,Business,1
+52,497262,93177,698,11,4,1,4,18.74,Postgraduate,Salaried,Rented,Divorced,Personal,1
+47,442610,499233,801,4,3,3,4,95.0,High School,Salaried,Owned,Married,Home,1
+56,856045,244973,637,16,2,4,2,28.62,High School,Unemployed,Rented,Divorced,Business,1
+31,569837,491436,690,2,4,1,0,86.24,High School,Salaried,Owned,Divorced,Home,1
+51,678020,307231,599,17,3,4,6,45.31,High School,Salaried,Rented,Single,Education,1
+39,636028,500134,804,14,3,4,5,78.63,Graduate,Salaried,Owned,Married,Personal,1
+28,810928,335937,684,12,0,4,6,41.43,Graduate,Salaried,Owned,Married,Home,0
+27,463716,419453,693,17,3,0,2,90.45,High School,Salaried,Owned,Single,Personal,1
+42,413374,400673,785,8,1,1,2,95.0,High School,Salaried,Rented,Married,Business,1
+33,699345,387261,736,5,0,0,2,55.37,Diploma,Salaried,Rented,Married,Vehicle,0
+24,782211,348711,629,3,1,0,0,44.58,Graduate,Salaried,Owned,Married,Home,1
+37,723157,267401,645,18,0,0,1,36.98,Postgraduate,Self-Employed,Rented,Single,Business,0
+46,471920,568161,725,8,0,2,2,95.0,High School,Self-Employed,Rented,Married,Education,0
+33,799047,173029,646,16,3,0,6,21.65,Graduate,Salaried,Rented,Married,Home,1
+58,486351,300603,542,6,2,1,1,61.81,Postgraduate,Business,Rented,Married,Education,1
+51,535261,302084,686,19,1,4,3,56.44,High School,Salaried,Owned,Single,Home,1
+40,442330,356342,586,17,0,4,3,80.56,Graduate,Unemployed,Rented,Married,Personal,1
+57,936255,239874,803,6,3,4,2,25.62,Postgraduate,Unemployed,Rented,Single,Vehicle,0
+37,789353,344064,702,9,3,0,6,43.59,Graduate,Salaried,Rented,Single,Education,1
+26,783099,276362,627,15,2,3,0,35.29,Diploma,Salaried,Owned,Single,Personal,1
+22,924387,78527,641,4,0,3,6,8.5,Graduate,Business,Rented,Divorced,Business,1
+57,1268783,301337,558,0,0,0,5,23.75,Graduate,Salaried,Owned,Single,Personal,1
+58,273970,145921,613,5,0,4,2,53.26,Graduate,Salaried,Rented,Married,Personal,0
+49,487557,57186,761,11,0,2,5,11.73,Graduate,Self-Employed,Owned,Married,Home,0
+25,514441,319162,846,2,4,4,3,62.04,Graduate,Self-Employed,Owned,Married,Vehicle,0
+32,462820,368304,741,6,1,0,6,79.58,High School,Business,Rented,Divorced,Business,1
+22,412932,373738,684,18,3,3,0,90.51,Graduate,Business,Mortgaged,Single,Home,1
+22,584076,379404,660,1,4,0,0,64.96,Graduate,Business,Owned,Single,Business,1
+30,382347,50000,623,1,4,4,3,13.08,Graduate,Business,Rented,Single,Home,1
+43,723709,109458,834,8,1,3,6,15.12,Postgraduate,Self-Employed,Rented,Married,Personal,0
+23,661374,576293,677,0,2,0,0,87.14,Graduate,Self-Employed,Mortgaged,Divorced,Business,1
+59,755826,153391,838,0,2,1,5,20.29,High School,Unemployed,Rented,Married,Business,0
+38,761700,385518,788,3,0,1,6,50.61,High School,Unemployed,Owned,Married,Education,1
+31,782662,203829,568,2,3,0,3,26.04,High School,Business,Owned,Single,Personal,1
+41,567850,311154,643,16,2,0,6,54.8,Graduate,Business,Rented,Divorced,Business,1
+51,1116652,211344,643,2,1,4,5,18.93,Diploma,Self-Employed,Owned,Married,Personal,0
+33,701575,378616,684,10,2,4,1,53.97,High School,Salaried,Mortgaged,Single,Personal,1
+22,240253,319148,686,14,3,2,5,95.0,Graduate,Business,Mortgaged,Divorced,Home,1
+22,429477,237239,850,12,0,4,4,55.24,Postgraduate,Salaried,Mortgaged,Married,Home,0
+54,267089,152976,615,13,3,3,0,57.28,High School,Salaried,Owned,Single,Home,0
+25,653814,337488,706,7,4,0,3,51.62,Graduate,Salaried,Rented,Single,Business,1
+45,623203,130219,733,17,3,3,4,20.9,Postgraduate,Self-Employed,Rented,Single,Business,1
+35,546946,359847,690,1,3,0,5,65.79,High School,Self-Employed,Owned,Married,Vehicle,1
+51,1092404,667708,698,2,0,4,5,61.12,Graduate,Salaried,Owned,Married,Personal,0
+23,770776,489024,617,17,3,1,3,63.45,Diploma,Salaried,Owned,Divorced,Home,1
+56,809742,400569,697,1,3,0,2,49.47,Graduate,Salaried,Owned,Single,Personal,0
+48,445164,288015,726,3,2,1,1,64.7,Graduate,Salaried,Mortgaged,Married,Education,1
+38,430188,50000,713,3,2,3,0,11.62,Graduate,Salaried,Mortgaged,Married,Education,0
+29,658097,114880,730,0,3,4,4,17.46,Postgraduate,Self-Employed,Owned,Married,Home,1
+59,688062,479591,789,2,0,2,6,69.7,Diploma,Salaried,Rented,Married,Business,0
+32,241611,189434,756,11,1,0,0,78.4,Diploma,Salaried,Owned,Married,Personal,0
+40,610332,202105,695,13,3,4,4,33.11,Diploma,Salaried,Owned,Married,Vehicle,1
+36,653096,276809,608,1,4,3,4,42.38,High School,Self-Employed,Owned,Married,Education,1
+29,602667,151314,648,18,1,2,1,25.11,Postgraduate,Business,Rented,Single,Business,1
+37,471054,128252,675,1,2,2,1,27.23,Postgraduate,Salaried,Rented,Married,Vehicle,0
+26,531302,292934,708,13,4,4,1,55.14,Graduate,Salaried,Mortgaged,Married,Business,1
+21,611091,175186,657,16,0,1,4,28.67,Diploma,Self-Employed,Mortgaged,Single,Education,0
+32,669976,196257,624,10,1,0,2,29.29,Postgraduate,Salaried,Owned,Single,Personal,1
+25,783054,190633,607,9,0,0,5,24.34,Postgraduate,Business,Rented,Divorced,Business,1
+37,887788,373130,574,2,1,3,2,42.03,Postgraduate,Unemployed,Owned,Single,Home,1
+54,585244,267502,674,4,3,4,0,45.71,High School,Self-Employed,Owned,Single,Personal,1
+27,549646,275000,587,17,1,3,0,50.03,Graduate,Unemployed,Rented,Married,Vehicle,1
+21,746284,383572,620,6,4,3,2,51.4,High School,Salaried,Owned,Single,Personal,1
+25,784386,280114,662,0,4,1,2,35.71,High School,Salaried,Owned,Single,Business,0
+40,554476,261044,596,14,4,2,5,47.08,Diploma,Salaried,Owned,Single,Home,1
+31,823887,365863,717,13,3,0,3,44.41,Graduate,Salaried,Owned,Single,Business,0
+40,865509,393548,742,1,3,1,1,45.47,Graduate,Salaried,Mortgaged,Married,Home,1
+22,934171,279410,652,1,2,3,1,29.91,Postgraduate,Salaried,Owned,Married,Personal,1
+33,1041231,311285,659,2,4,4,3,29.9,Diploma,Self-Employed,Rented,Single,Personal,1
+36,459388,190549,728,1,0,4,2,41.48,Diploma,Salaried,Mortgaged,Married,Business,0
+37,653058,179504,640,12,3,4,4,27.49,High School,Self-Employed,Rented,Married,Education,1
+42,652481,407681,635,2,0,0,6,62.48,Graduate,Salaried,Owned,Single,Business,1
+51,628424,362292,774,12,1,4,2,57.65,Graduate,Salaried,Mortgaged,Married,Education,0
+39,507162,363742,752,3,1,1,3,71.72,High School,Salaried,Owned,Single,Home,1
+53,323176,339320,732,19,3,3,5,95.0,Graduate,Self-Employed,Owned,Single,Personal,1

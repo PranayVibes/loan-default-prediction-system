@@ -1,0 +1,6 @@
+age,annual_income,loan_amount,credit_score,employment_years,existing_loans,dependents,missed_payments,debt_to_income_ratio,education,employment_type,residence_type,marital_status,loan_purpose,default
+24,628841,312975,693,7,3,3,6,49.77,Postgraduate,Self-Employed,Rented,Married,Vehicle,1
+51,898164,192430,739,1,1,0,6,21.42,High School,Business,Rented,Married,Home,1
+46,180000,312039,755,13,2,3,4,95.0,Graduate,Salaried,Owned,Married,Personal,1
+38,320739,188834,754,14,0,1,2,58.87,Graduate,Salaried,Rented,Single,Personal,1
+37,446965,146048,683,15,0,0,3,32.68,Graduate,Salaried,Mortgaged,Married,Personal,0
